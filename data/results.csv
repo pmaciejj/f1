@@ -1,0 +1,1001 @@
+season,round,number,position,positionText,points,grid,laps,status,Driver_driverId,Driver_permanentNumber,Driver_code,Driver_givenName,Driver_familyName,Constructor_constructorId,Constructor_name,Time_millis,Time_time,FastestLap_rank,FastestLap_lap,FastestLap_Time_time,FastestLap_AverageSpeed_speed
+2020,1,77,1,1,25,1,71,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5455739,1:30:55.739,2,68,1:07.657,229.758
+2020,1,16,2,2,18,7,71,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5458439,+2.700,4,64,1:07.901,228.933
+2020,1,4,3,3,16,3,71,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5461230,+5.491,1,71,1:07.475,230.378
+2020,1,44,4,4,12,5,71,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5461428,+5.689,3,67,1:07.712,229.572
+2020,1,55,5,5,10,8,71,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,5464642,+8.903,5,63,1:07.974,228.687
+2020,1,11,6,6,8,6,71,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,5470831,+15.092,6,63,1:08.305,227.579
+2020,1,10,7,7,6,12,71,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5472421,+16.682,11,64,1:09.025,225.205
+2020,1,31,8,8,4,14,71,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,5473195,+17.456,10,64,1:08.932,225.509
+2020,1,99,9,9,2,18,71,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,5476885,+21.146,9,70,1:08.796,225.954
+2020,1,5,10,10,1,11,71,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,5480284,+24.545,8,71,1:08.623,226.524
+2020,1,6,11,11,0,20,71,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,5487389,+31.650,16,63,1:09.662,223.146
+2020,1,26,12,12,0,13,69,Suspension,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,13,50,1:09.135,224.847
+2020,1,23,13,13,0,4,67,Electronics,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,,,7,50,1:08.432,227.156
+2020,1,7,14,R,0,19,53,Wheel,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,12,48,1:09.031,225.185
+2020,1,63,15,R,0,17,49,Fuel pressure,russell,63,RUS,George,Russell,williams,Williams,,,14,49,1:09.317,224.256
+2020,1,8,16,R,0,15,49,Brakes,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,17,46,1:10.228,221.347
+2020,1,20,17,R,0,16,24,Brakes,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,20,23,1:10.720,219.807
+2020,1,18,18,R,0,9,20,Engine,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,,,18,4,1:10.326,221.039
+2020,1,3,19,R,0,10,17,Overheating,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,,,19,8,1:10.610,220.150
+2020,1,33,20,R,0,2,11,Electronics,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,15,5,1:09.351,224.146
+2020,10,77,1,1,26,3,53,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5640364,1:34:00.364,1,51,1:37.030,216.972
+2020,10,33,2,2,18,2,53,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5648093,+7.729,3,53,1:37.332,216.298
+2020,10,44,3,3,15,1,53,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5663093,+22.729,7,48,1:38.075,214.660
+2020,10,11,4,4,12,4,53,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,5670922,+30.558,8,52,1:38.141,214.515
+2020,10,3,5,5,10,5,53,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,5692429,+52.065,6,53,1:37.886,215.074
+2020,10,16,6,6,8,10,53,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5702550,+1:02.186,11,47,1:39.053,212.540
+2020,10,31,7,7,6,7,53,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,5708370,+1:08.006,13,48,1:39.216,212.191
+2020,10,26,8,8,4,11,53,Finished,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,5709104,+1:08.740,12,48,1:39.133,212.369
+2020,10,10,9,9,2,9,53,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5730130,+1:29.766,2,50,1:37.231,216.523
+2020,10,23,10,10,1,15,53,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,5738224,+1:37.860,9,51,1:38.377,214.001
+2020,10,99,11,11,0,17,52,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,16,44,1:39.766,211.021
+2020,10,20,12,12,0,18,52,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,17,52,1:40.380,209.731
+2020,10,5,13,13,0,14,52,+1 Lap,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,,,14,46,1:39.588,211.398
+2020,10,7,14,14,0,19,52,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,10,37,1:38.858,212.960
+2020,10,4,15,15,0,8,52,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,5,50,1:37.377,216.198
+2020,10,6,16,16,0,20,52,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,18,47,1:41.044,208.352
+2020,10,8,17,17,0,16,52,+1 Lap,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,15,44,1:39.614,211.343
+2020,10,63,18,18,0,13,52,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,4,52,1:37.352,216.254
+2020,10,55,19,R,0,6,0,Accident,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,,,,,,
+2020,10,18,20,R,0,12,0,Collision,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,,,,,,
+2020,11,44,1,1,25,2,60,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5749641,1:35:49.641,2,58,1:28.145,210.253
+2020,11,33,2,2,19,3,60,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5754111,+4.470,1,60,1:28.139,210.267
+2020,11,3,3,3,15,6,60,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,5764254,+14.613,3,53,1:29.584,206.876
+2020,11,11,4,4,12,9,60,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,5765711,+16.070,4,58,1:29.700,206.608
+2020,11,55,5,5,10,10,60,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,5771546,+21.905,6,53,1:30.129,205.625
+2020,11,10,6,6,8,12,60,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5772407,+22.766,5,53,1:30.110,205.668
+2020,11,16,7,7,6,4,60,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5780455,+30.814,10,54,1:30.712,204.303
+2020,11,27,8,8,4,20,60,Finished,hulkenberg,27,HUL,Nico,Hülkenberg,racing_point,Racing Point,5782237,+32.596,11,58,1:30.733,204.256
+2020,11,8,9,9,2,16,60,Finished,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,5788722,+39.081,14,54,1:31.562,202.407
+2020,11,99,10,10,1,14,60,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,5789676,+40.035,12,38,1:30.909,203.861
+2020,11,5,11,11,0,11,60,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,5790451,+40.810,7,43,1:30.408,204.990
+2020,11,7,12,12,0,19,60,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,5791117,+41.476,9,54,1:30.512,204.755
+2020,11,20,13,13,0,15,60,Finished,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,5799226,+49.585,8,37,1:30.456,204.881
+2020,11,6,14,14,0,18,60,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,5804090,+54.449,13,39,1:31.377,202.816
+2020,11,26,15,15,0,13,60,Finished,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,5805229,+55.588,16,41,1:32.214,200.975
+2020,11,4,16,R,0,8,42,Power Unit,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,17,40,1:32.328,200.727
+2020,11,23,17,R,0,5,23,Radiator,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,,,18,9,1:32.330,200.723
+2020,11,31,18,R,0,7,22,Gearbox,ocon,31,OCO,Esteban,Ocon,renault,Renault,,,19,21,1:33.189,198.873
+2020,11,77,19,R,0,1,18,Power Unit,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,,,15,8,1:31.884,201.697
+2020,11,63,20,R,0,17,12,Collision,russell,63,RUS,George,Russell,williams,Williams,,,20,6,1:34.526,196.060
+2020,12,44,1,1,26,1,66,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5396828,1:29:56.828,1,63,1:18.750,212.708
+2020,12,77,2,2,18,2,66,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5422420,+25.592,2,66,1:19.345,211.113
+2020,12,33,3,3,15,3,66,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5431336,+34.508,4,62,1:19.854,209.767
+2020,12,16,4,4,12,4,66,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5462140,+1:05.312,7,66,1:20.408,208.322
+2020,12,10,5,5,10,9,65,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,9,65,1:20.551,207.952
+2020,12,55,6,6,8,7,65,+1 Lap,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,,,6,65,1:20.268,208.685
+2020,12,11,7,7,6,5,65,+1 Lap,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,,,11,49,1:20.802,207.306
+2020,12,31,8,8,4,11,65,+1 Lap,ocon,31,OCO,Esteban,Ocon,renault,Renault,,,12,61,1:20.859,207.160
+2020,12,3,9,9,2,10,65,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,,,14,61,1:20.906,207.040
+2020,12,5,10,10,1,15,65,+1 Lap,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,,,10,62,1:20.731,207.489
+2020,12,7,11,11,0,16,65,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,15,60,1:21.058,206.652
+2020,12,23,12,12,0,6,65,+1 Lap,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,,,5,61,1:19.890,209.673
+2020,12,4,13,13,0,8,65,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,3,65,1:19.360,211.073
+2020,12,63,14,14,0,14,65,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,13,62,1:20.882,207.101
+2020,12,99,15,15,0,17,65,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,20,46,1:21.893,204.544
+2020,12,20,16,16,0,19,65,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,16,63,1:21.460,205.632
+2020,12,8,17,17,0,18,65,+1 Lap,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,17,59,1:21.664,205.118
+2020,12,6,18,18,0,20,64,+2 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,19,53,1:21.859,204.629
+2020,12,26,19,19,0,13,64,+2 Laps,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,8,59,1:20.449,208.216
+2020,12,18,20,R,0,12,51,Collision damage,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,,,18,45,1:21.694,205.043
+2020,13,44,1,1,26,2,63,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5312430,1:28:32.430,1,63,1:15.484,234.121
+2020,13,77,2,2,18,1,63,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5318213,+5.783,2,63,1:15.902,232.831
+2020,13,3,3,3,15,5,63,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,5326750,+14.320,4,62,1:17.552,227.878
+2020,13,26,4,4,12,8,63,Finished,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,5327571,+15.141,6,62,1:17.666,227.543
+2020,13,16,5,5,10,7,63,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5331541,+19.111,12,62,1:18.173,226.067
+2020,13,11,6,6,8,11,63,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,5332082,+19.652,9,49,1:18.084,226.325
+2020,13,55,7,7,6,10,63,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,5332660,+20.230,11,62,1:18.118,226.226
+2020,13,4,8,8,4,9,63,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5333561,+21.131,8,63,1:18.069,226.368
+2020,13,7,9,9,2,18,63,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,5334654,+22.224,10,63,1:18.088,226.313
+2020,13,99,10,10,1,20,63,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,5338828,+26.398,15,61,1:18.794,224.286
+2020,13,6,11,11,0,19,63,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,5339565,+27.135,14,37,1:18.719,224.499
+2020,13,5,12,12,0,14,63,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,5340883,+28.453,7,44,1:17.767,227.248
+2020,13,18,13,13,0,15,63,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,5341593,+29.163,13,46,1:18.360,225.528
+2020,13,8,14,14,0,16,63,Finished,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,5345365,+32.935,17,45,1:18.822,224.206
+2020,13,23,15,15,0,6,63,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,5369714,+57.284,3,63,1:16.177,231.991
+2020,13,63,16,R,0,13,51,Accident,russell,63,RUS,George,Russell,williams,Williams,,,16,43,1:18.811,224.237
+2020,13,33,17,R,0,3,50,Puncture,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,5,44,1:17.637,227.628
+2020,13,20,18,R,0,17,47,Illness,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,18,45,1:19.273,222.930
+2020,13,31,19,R,0,12,27,Gearbox,ocon,31,OCO,Esteban,Ocon,renault,Renault,,,19,22,1:19.606,221.998
+2020,13,10,20,R,0,4,8,Water pressure,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,20,5,1:20.403,219.797
+2020,14,44,1,1,25,6,58,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,6139313,1:42:19.313,6,56,1:39.413,193.302
+2020,14,11,2,2,18,3,58,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,6170946,+31.633,12,50,1:40.392,191.417
+2020,14,5,3,3,15,11,58,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,6171273,+31.960,8,53,1:39.662,192.819
+2020,14,16,4,4,12,12,58,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,6173171,+33.858,11,47,1:39.961,192.242
+2020,14,55,5,5,10,15,58,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,6173676,+34.363,4,56,1:38.754,194.592
+2020,14,33,6,6,8,2,58,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,6184186,+44.873,3,53,1:38.431,195.231
+2020,14,23,7,7,6,4,58,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,6185797,+46.484,5,54,1:39.099,193.915
+2020,14,4,8,8,5,14,58,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,6200572,+1:01.259,1,58,1:36.806,198.508
+2020,14,18,9,9,2,1,58,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,6211666,+1:12.353,10,55,1:39.921,192.319
+2020,14,3,10,10,1,5,58,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,6234773,+1:35.460,13,54,1:40.677,190.875
+2020,14,31,11,11,0,7,57,+1 Lap,ocon,31,OCO,Esteban,Ocon,renault,Renault,,,16,55,1:41.006,190.254
+2020,14,26,12,12,0,16,57,+1 Lap,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,17,53,1:41.019,190.229
+2020,14,10,13,13,0,19,57,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,7,53,1:39.586,192.966
+2020,14,77,14,14,0,9,57,+1 Lap,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,,,2,57,1:38.193,195.704
+2020,14,7,15,15,0,8,57,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,9,57,1:39.743,192.663
+2020,14,63,16,16,0,0,57,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,14,51,1:40.814,190.616
+2020,14,20,17,17,0,13,55,Withdrew,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,15,45,1:40.948,190.363
+2020,14,8,18,R,0,17,49,Collision damage,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,18,38,1:43.281,186.063
+2020,14,6,19,R,0,0,39,Collision damage,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,19,32,1:43.495,185.678
+2020,14,99,20,R,0,10,11,Gearbox,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,20,11,1:51.122,172.934
+2020,15,44,1,1,25,1,57,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,10787515,2:59:47.515,3,38,1:32.864,209.803
+2020,15,33,2,2,19,3,57,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,10788769,+1.254,1,48,1:32.014,211.741
+2020,15,23,3,3,15,4,57,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,10795520,+8.005,10,41,1:33.684,207.967
+2020,15,4,4,4,12,9,57,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,10798852,+11.337,7,53,1:33.588,208.180
+2020,15,55,5,5,10,15,57,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,10799302,+11.787,5,46,1:33.411,208.575
+2020,15,10,6,6,8,8,57,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,10799457,+11.942,16,48,1:34.817,205.482
+2020,15,3,7,7,6,6,57,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,10806883,+19.368,2,38,1:32.827,209.887
+2020,15,77,8,8,4,2,57,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,10807195,+19.680,4,28,1:33.352,208.706
+2020,15,31,9,9,2,7,57,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,10810318,+22.803,13,37,1:34.354,206.490
+2020,15,16,10,10,1,12,56,+1 Lap,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,8,44,1:33.625,208.098
+2020,15,26,11,11,0,10,56,+1 Lap,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,12,35,1:34.141,206.957
+2020,15,63,12,12,0,14,56,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,17,47,1:35.042,204.995
+2020,15,5,13,13,0,11,56,+1 Lap,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,,,11,41,1:33.861,207.575
+2020,15,6,14,14,0,20,56,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,15,39,1:34.591,205.973
+2020,15,7,15,15,0,17,56,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,6,43,1:33.573,208.213
+2020,15,99,16,16,0,16,56,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,14,22,1:34.536,206.092
+2020,15,20,17,17,0,18,56,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,18,29,1:35.241,204.567
+2020,15,11,18,18,0,5,53,Engine,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,,,9,40,1:33.629,208.089
+2020,15,18,19,R,0,13,2,Collision,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,,,,,,
+2020,15,8,20,R,0,19,0,Collision,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,,,,
+2020,16,11,1,1,25,5,87,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,5475114,1:31:15.114,3,69,0:56.789,224.599
+2020,16,31,2,2,18,11,87,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,5485632,+10.518,12,75,0:57.350,222.402
+2020,16,18,3,3,15,10,87,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,5486983,+11.869,14,85,0:57.388,222.255
+2020,16,55,4,4,12,8,87,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,5487694,+12.580,9,80,0:57.165,223.122
+2020,16,3,5,5,10,7,87,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,5488444,+13.330,6,57,0:56.979,223.850
+2020,16,23,6,6,8,12,87,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,5488956,+13.842,8,52,0:57.056,223.548
+2020,16,26,7,7,6,6,87,Finished,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,5489648,+14.534,7,80,0:57.001,223.764
+2020,16,77,8,8,4,1,87,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5490503,+15.389,2,60,0:56.563,225.497
+2020,16,63,9,9,3,2,87,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5493670,+18.556,1,80,0:55.404,230.214
+2020,16,4,10,10,1,19,87,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5494655,+19.541,11,85,0:57.270,222.713
+2020,16,10,11,11,0,9,87,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5495641,+20.527,10,53,0:57.220,222.908
+2020,16,5,12,12,0,13,87,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,5497725,+22.611,5,56,0:56.905,224.141
+2020,16,99,13,13,0,14,87,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,5499225,+24.111,4,56,0:56.887,224.212
+2020,16,7,14,14,0,18,87,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,5501267,+26.153,13,56,0:57.375,222.305
+2020,16,20,15,15,0,15,87,Finished,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,5507484,+32.370,16,57,0:57.516,221.760
+2020,16,89,16,16,0,17,87,Finished,aitken,89,AIT,Jack,Aitken,williams,Williams,5508788,+33.674,15,56,0:57.392,222.240
+2020,16,51,17,17,0,20,87,Finished,pietro_fittipaldi,51,FIT,Pietro,Fittipaldi,haas,Haas F1 Team,5511972,+36.858,17,56,0:57.742,220.892
+2020,16,6,18,R,0,16,52,Engine,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,18,29,0:58.206,219.132
+2020,16,33,19,R,0,3,0,Accident,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,,,,
+2020,16,16,20,R,0,4,0,Collision,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,,,,
+2020,17,33,1,1,25,1,55,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5788645,1:36:28.645,2,14,1:40.958,198.046
+2020,17,77,2,2,18,2,55,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5804621,+15.976,3,40,1:41.131,197.707
+2020,17,44,3,3,15,3,55,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5807060,+18.415,5,37,1:41.420,197.144
+2020,17,23,4,4,12,5,55,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,5808632,+19.987,4,42,1:41.227,197.520
+2020,17,4,5,5,10,4,55,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5849374,+1:00.729,12,53,1:41.964,196.092
+2020,17,55,6,6,8,6,55,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,5854307,+1:05.662,11,48,1:41.947,196.125
+2020,17,3,7,7,7,11,55,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,5862393,+1:13.748,1,55,1:40.926,198.109
+2020,17,10,8,8,4,9,55,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5878363,+1:29.718,15,53,1:42.474,195.116
+2020,17,31,9,9,2,10,55,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,5799996,+1:41.069,18,47,1:42.894,194.320
+2020,17,18,10,10,1,8,55,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,5790314,+1:42.738,9,41,1:41.866,196.281
+2020,17,26,11,11,0,7,54,+1 Lap,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,17,47,1:42.704,194.679
+2020,17,7,12,12,0,15,54,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,14,53,1:42.148,195.739
+2020,17,16,13,13,0,12,54,+1 Lap,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,10,24,1:41.908,196.200
+2020,17,5,14,14,0,13,54,+1 Lap,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,,,6,37,1:41.475,197.037
+2020,17,63,15,15,0,16,54,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,20,54,1:43.328,193.504
+2020,17,99,16,16,0,14,54,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,7,29,1:41.675,196.650
+2020,17,6,17,17,0,18,54,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,16,49,1:42.497,195.073
+2020,17,20,18,18,0,20,54,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,13,50,1:41.999,196.025
+2020,17,51,19,19,0,17,53,+2 Laps,pietro_fittipaldi,51,FIT,Pietro,Fittipaldi,haas,Haas F1 Team,,,8,50,1:41.707,196.588
+2020,17,11,20,R,0,19,8,Transmission,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,,,19,6,1:43.263,193.625
+2020,2,44,1,1,25,1,71,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,4970683,1:22:50.683,3,68,1:06.719,232.989
+2020,2,77,2,2,18,4,71,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,4984402,+13.719,7,62,1:07.534,230.177
+2020,2,33,3,3,15,2,71,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5004381,+33.698,2,70,1:06.145,235.010
+2020,2,23,4,4,12,6,71,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,5015083,+44.400,6,67,1:07.299,230.981
+2020,2,4,5,5,10,9,71,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5032153,+1:01.470,5,66,1:07.193,231.345
+2020,2,11,6,6,8,17,71,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,5033070,+1:02.387,4,68,1:07.188,231.362
+2020,2,18,7,7,6,12,71,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,5033136,+1:02.453,10,65,1:07.833,229.162
+2020,2,3,8,8,4,8,71,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,5033274,+1:02.591,9,65,1:07.832,229.166
+2020,2,55,9,9,3,3,70,+1 Lap,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,,,1,68,1:05.619,236.894
+2020,2,26,10,10,1,13,70,+1 Lap,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,13,60,1:08.378,227.336
+2020,2,7,11,11,0,16,70,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,14,57,1:08.382,227.322
+2020,2,20,12,12,0,15,70,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,11,69,1:08.009,228.569
+2020,2,8,13,13,0,0,70,+1 Lap,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,12,69,1:08.047,228.442
+2020,2,99,14,14,0,19,70,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,15,54,1:08.512,226.891
+2020,2,10,15,15,0,7,70,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,8,69,1:07.827,229.183
+2020,2,63,16,16,0,11,69,+2 Laps,russell,63,RUS,George,Russell,williams,Williams,,,16,36,1:08.601,226.597
+2020,2,6,17,17,0,18,69,+2 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,17,68,1:08.806,225.922
+2020,2,31,18,R,0,5,25,Overheating,ocon,31,OCO,Esteban,Ocon,renault,Renault,,,18,22,1:09.321,224.243
+2020,2,16,19,R,0,14,4,Collision damage,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,19,3,1:35.379,162.979
+2020,2,5,20,R,0,10,1,Collision damage,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,,,,,,
+2020,3,44,1,1,26,1,70,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5772473,1:36:12.473,1,70,1:16.627,205.823
+2020,3,33,2,2,18,7,70,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5781175,+8.702,4,60,1:19.184,199.176
+2020,3,77,3,3,15,2,70,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5781925,+9.452,2,66,1:17.665,203.072
+2020,3,18,4,4,12,3,70,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,5830052,+57.579,3,68,1:18.973,199.708
+2020,3,23,5,5,10,13,70,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,5850789,+1:18.316,5,68,1:19.440,198.534
+2020,3,5,6,6,8,5,69,+1 Lap,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,,,14,49,1:20.363,196.254
+2020,3,11,7,7,6,4,69,+1 Lap,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,,,10,39,1:20.090,196.923
+2020,3,3,8,8,4,11,69,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,,,7,46,1:19.532,198.305
+2020,3,55,9,9,2,9,69,+1 Lap,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,,,15,68,1:20.477,195.976
+2020,3,20,10,10,1,0,69,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,6,67,1:19.457,198.492
+2020,3,16,11,11,0,6,69,+1 Lap,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,16,64,1:20.821,195.142
+2020,3,26,12,12,0,17,69,+1 Lap,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,18,51,1:20.946,194.841
+2020,3,4,13,13,0,8,69,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,8,42,1:19.945,197.280
+2020,3,31,14,14,0,14,69,+1 Lap,ocon,31,OCO,Esteban,Ocon,renault,Renault,,,13,40,1:20.261,196.503
+2020,3,7,15,15,0,20,69,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,17,67,1:20.889,194.978
+2020,3,8,16,16,0,0,69,+1 Lap,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,12,61,1:20.232,196.574
+2020,3,99,17,17,0,19,69,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,11,44,1:20.096,196.908
+2020,3,63,18,18,0,12,69,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,9,67,1:19.984,197.184
+2020,3,6,19,19,0,15,65,+5 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,19,64,1:21.198,194.236
+2020,3,10,20,R,0,10,15,Engine,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,20,10,1:23.939,187.893
+2020,4,44,1,1,25,1,52,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5281283,1:28:01.283,3,45,1:29.238,237.652
+2020,4,33,2,2,19,3,52,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5287139,+5.856,1,52,1:27.097,243.494
+2020,4,16,3,3,15,4,52,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5299757,+18.474,9,49,1:29.813,236.130
+2020,4,3,4,4,12,8,52,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,5300933,+19.650,5,49,1:29.482,237.004
+2020,4,4,5,5,10,5,52,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5303560,+22.277,12,41,1:30.058,235.488
+2020,4,31,6,6,8,9,52,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,5308220,+26.937,6,50,1:29.491,236.980
+2020,4,10,7,7,6,11,52,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5312471,+31.188,7,52,1:29.603,236.684
+2020,4,23,8,8,4,12,52,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,5313953,+32.670,2,52,1:28.689,239.123
+2020,4,18,9,9,2,6,52,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,5318594,+37.311,13,44,1:30.475,234.402
+2020,4,5,10,10,1,10,52,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,5323140,+41.857,15,44,1:30.537,234.242
+2020,4,77,11,11,0,2,52,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5323450,+42.167,4,41,1:29.265,237.580
+2020,4,63,12,12,0,20,52,Finished,russell,63,RUS,George,Russell,williams,Williams,5333287,+52.004,16,41,1:30.862,233.404
+2020,4,55,13,13,0,7,52,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,5334653,+53.370,10,47,1:29.948,235.776
+2020,4,99,14,14,0,15,52,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,5335488,+54.205,17,49,1:30.977,233.109
+2020,4,6,15,15,0,18,52,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,5335832,+54.549,14,44,1:30.501,234.335
+2020,4,8,16,16,0,17,52,Finished,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,5336333,+55.050,8,49,1:29.782,236.212
+2020,4,7,17,17,0,16,51,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,11,49,1:29.973,235.710
+2020,4,26,18,R,0,19,11,Accident,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,18,11,1:32.443,229.412
+2020,4,20,19,R,0,14,1,Collision,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,,,,
+2020,4,27,20,W,0,13,0,Power Unit,hulkenberg,27,HUL,Nico,Hülkenberg,racing_point,Racing Point,,,,,,
+2020,5,33,1,1,25,4,52,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,4781993,1:19:41.993,2,46,1:29.465,237.049
+2020,5,44,2,2,19,2,52,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,4793319,+11.326,1,43,1:28.451,239.766
+2020,5,77,3,3,15,1,52,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,4801224,+19.231,4,44,1:29.765,236.256
+2020,5,16,4,4,12,8,52,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,4811282,+29.289,8,39,1:30.552,234.203
+2020,5,23,5,5,10,9,52,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,4821139,+39.146,3,46,1:29.477,237.017
+2020,5,18,6,6,8,6,52,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,4824531,+42.538,15,45,1:30.877,233.365
+2020,5,27,7,7,6,3,52,Finished,hulkenberg,27,HUL,Nico,Hülkenberg,racing_point,Racing Point,4837944,+55.951,6,52,1:30.087,235.412
+2020,5,31,8,8,4,14,52,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,4846766,+1:04.773,10,50,1:30.575,234.144
+2020,5,4,9,9,2,10,52,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,4847537,+1:05.544,11,49,1:30.698,233.826
+2020,5,26,10,10,1,16,52,Finished,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,4851662,+1:09.669,12,52,1:30.738,233.723
+2020,5,10,11,11,0,7,52,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,4852635,+1:10.642,7,52,1:30.092,235.399
+2020,5,5,12,12,0,11,52,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,4855363,+1:13.370,13,49,1:30.785,233.602
+2020,5,55,13,13,0,12,52,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,4856063,+1:14.070,9,49,1:30.556,234.193
+2020,5,3,14,14,0,5,51,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,,,16,39,1:31.168,232.621
+2020,5,7,15,15,0,20,51,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,18,30,1:31.756,231.130
+2020,5,8,16,16,0,13,51,+1 Lap,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,14,51,1:30.793,233.581
+2020,5,99,17,17,0,19,51,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,19,37,1:31.826,230.954
+2020,5,63,18,18,0,15,51,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,17,50,1:31.408,232.010
+2020,5,6,19,19,0,18,51,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,5,48,1:29.950,235.770
+2020,5,20,20,R,0,17,43,Retired,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,20,39,1:31.830,230.944
+2020,6,44,1,1,25,1,66,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5505279,1:31:45.279,2,63,1:19.822,209.942
+2020,6,33,2,2,18,3,66,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5529456,+24.177,4,53,1:21.477,205.677
+2020,6,77,3,3,16,2,66,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5550031,+44.752,1,66,1:18.183,214.343
+2020,6,18,4,4,12,5,65,+1 Lap,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,,,8,56,1:22.024,204.306
+2020,6,11,5,5,10,4,65,+1 Lap,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,,,16,58,1:22.515,203.090
+2020,6,55,6,6,8,7,65,+1 Lap,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,,,5,59,1:21.771,204.938
+2020,6,5,7,7,6,11,65,+1 Lap,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,,,18,48,1:22.707,202.618
+2020,6,23,8,8,4,6,65,+1 Lap,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,,,11,41,1:22.194,203.883
+2020,6,10,9,9,2,10,65,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,17,44,1:22.543,203.021
+2020,6,4,10,10,1,8,65,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,13,56,1:22.392,203.393
+2020,6,3,11,11,0,13,65,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,,,14,51,1:22.464,203.215
+2020,6,26,12,12,0,12,65,+1 Lap,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,,,12,47,1:22.336,203.531
+2020,6,31,13,13,0,15,65,+1 Lap,ocon,31,OCO,Esteban,Ocon,renault,Renault,,,10,65,1:22.174,203.933
+2020,6,7,14,14,0,14,65,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,7,47,1:21.888,204.645
+2020,6,20,15,15,0,16,65,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,19,64,1:23.474,200.757
+2020,6,99,16,16,0,20,65,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,6,47,1:21.801,204.863
+2020,6,63,17,17,0,18,65,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,15,37,1:22.503,203.119
+2020,6,6,18,18,0,19,64,+2 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,9,60,1:22.030,204.291
+2020,6,8,19,19,0,17,64,+2 Laps,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,,,3,64,1:20.409,208.409
+2020,6,16,20,R,0,9,38,Electronics,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,20,35,1:23.968,199.576
+2020,7,44,1,1,25,1,44,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5048761,1:24:08.761,2,28,1:47.758,233.990
+2020,7,77,2,2,18,2,44,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5057209,+8.448,5,27,1:47.983,233.503
+2020,7,33,3,3,15,3,44,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5064216,+15.455,8,27,1:48.305,232.809
+2020,7,3,4,4,13,4,44,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,5067638,+18.877,1,44,1:47.483,234.589
+2020,7,31,5,5,10,6,44,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,5089411,+40.650,10,44,1:48.540,232.305
+2020,7,23,6,6,8,5,44,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,5091473,+42.712,12,27,1:48.736,231.886
+2020,7,4,7,7,6,10,44,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5092535,+43.774,11,39,1:48.552,232.279
+2020,7,10,8,8,4,12,44,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5096132,+47.371,3,29,1:47.839,233.815
+2020,7,18,9,9,2,9,44,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,5101364,+52.603,13,34,1:49.136,231.036
+2020,7,11,10,10,1,8,44,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,5101940,+53.179,9,20,1:48.389,232.628
+2020,7,26,11,11,0,11,44,Finished,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,5118961,+1:10.200,15,28,1:49.832,229.572
+2020,7,7,12,12,0,16,44,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,5120265,+1:11.504,14,28,1:49.822,229.593
+2020,7,5,13,13,0,14,44,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,5121655,+1:12.894,16,31,1:49.958,229.309
+2020,7,16,14,14,0,13,44,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5123681,+1:14.920,4,26,1:47.840,233.813
+2020,7,8,15,15,0,17,44,Finished,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,5125554,+1:16.793,17,28,1:50.018,229.184
+2020,7,6,16,16,0,19,44,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,5126556,+1:17.795,6,32,1:48.048,233.362
+2020,7,20,17,17,0,20,44,Finished,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,5134301,+1:25.540,7,37,1:48.083,233.287
+2020,7,99,18,R,0,18,9,Accident,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,19,9,1:51.793,225.545
+2020,7,63,19,R,0,15,9,Debris,russell,63,RUS,George,Russell,williams,Williams,,,18,5,1:51.754,225.624
+2020,7,55,20,W,0,7,0,Exhaust,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,,,,,,
+2020,8,10,1,1,25,10,53,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,6426056,1:47:06.056,6,34,1:24.037,248.162
+2020,8,55,2,2,18,3,53,Finished,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,6426471,+0.415,2,40,1:23.882,248.620
+2020,8,18,3,3,15,8,53,Finished,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,6429414,+3.358,3,42,1:23.897,248.576
+2020,8,4,4,4,12,6,53,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,6432056,+6.000,7,50,1:24.232,247.587
+2020,8,77,5,5,10,2,53,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,6433164,+7.108,5,51,1:23.961,248.386
+2020,8,3,6,6,8,7,53,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,6434447,+8.391,4,38,1:23.898,248.573
+2020,8,44,7,7,7,1,53,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,6443301,+17.245,1,34,1:22.746,252.033
+2020,8,31,8,8,4,12,53,Finished,ocon,31,OCO,Esteban,Ocon,renault,Renault,6444747,+18.691,11,52,1:24.490,246.831
+2020,8,26,9,9,2,11,53,Finished,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,6448264,+22.208,10,44,1:24.479,246.863
+2020,8,11,10,10,1,4,53,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,6449280,+23.224,8,50,1:24.336,247.282
+2020,8,6,11,11,0,20,53,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,6458932,+32.876,16,39,1:24.999,245.353
+2020,8,8,12,12,0,16,53,Finished,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,6461220,+35.164,12,48,1:24.785,245.972
+2020,8,7,13,13,0,14,53,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,6462368,+36.312,13,29,1:24.835,245.827
+2020,8,63,14,14,0,19,53,Finished,russell,63,RUS,George,Russell,williams,Williams,6462649,+36.593,9,39,1:24.421,247.033
+2020,8,23,15,15,0,9,53,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,6463589,+37.533,15,48,1:24.926,245.564
+2020,8,99,16,16,0,18,53,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,6481255,+55.199,14,43,1:24.856,245.766
+2020,8,33,17,R,0,5,30,Power Unit,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,17,10,1:25.539,243.804
+2020,8,16,18,R,0,13,23,Accident,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,19,19,1:26.026,242.424
+2020,8,20,19,R,0,15,17,Power Unit,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,18,10,1:25.787,243.099
+2020,8,5,20,R,0,17,6,Brakes,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,,,20,4,1:27.107,239.415
+2020,9,44,1,1,26,1,59,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,8375060,2:19:35.060,1,58,1:18.833,239.518
+2020,9,77,2,2,18,2,59,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,8379940,+4.880,2,53,1:19.432,237.712
+2020,9,23,3,3,15,4,59,Finished,albon,23,ALB,Alexander,Albon,red_bull,Red Bull,8383124,+8.064,3,51,1:20.039,235.909
+2020,9,3,4,4,12,8,59,Finished,ricciardo,3,RIC,Daniel,Ricciardo,renault,Renault,8385477,+10.417,4,57,1:20.426,234.774
+2020,9,11,5,5,10,7,59,Finished,perez,11,PER,Sergio,Pérez,racing_point,Racing Point,8390710,+15.650,5,59,1:20.632,234.175
+2020,9,4,6,6,8,11,59,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,8393943,+18.883,7,59,1:21.198,232.542
+2020,9,26,7,7,6,12,59,Finished,kvyat,26,KVY,Daniil,Kvyat,alphatauri,AlphaTauri,8396816,+21.756,10,51,1:21.458,231.800
+2020,9,16,8,8,4,5,59,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,8403405,+28.345,9,50,1:21.229,232.453
+2020,9,7,9,9,2,13,59,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,8404830,+29.770,6,59,1:21.164,232.640
+2020,9,5,10,10,1,14,59,Finished,vettel,5,VET,Sebastian,Vettel,ferrari,Ferrari,8405043,+29.983,8,59,1:21.202,232.531
+2020,9,63,11,11,0,18,59,Finished,russell,63,RUS,George,Russell,williams,Williams,8407464,+32.404,11,58,1:21.645,231.269
+2020,9,8,12,12,0,15,59,Finished,grosjean,8,GRO,Romain,Grosjean,haas,Haas F1 Team,8417096,+42.036,13,59,1:22.263,229.532
+2020,9,18,13,R,0,6,42,Puncture,stroll,18,STR,Lance,Stroll,racing_point,Racing Point,,,12,42,1:22.068,230.077
+2020,9,31,14,R,0,10,7,Brakes,ocon,31,OCO,Esteban,Ocon,renault,Renault,,,15,6,2:11.793,143.270
+2020,9,6,15,R,0,19,6,Collision,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,14,6,2:11.365,143.736
+2020,9,20,16,R,0,20,5,Collision,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,17,4,2:13.812,141.108
+2020,9,99,17,R,0,17,5,Collision,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,16,4,2:13.809,141.111
+2020,9,55,18,R,0,9,5,Collision,sainz,55,SAI,Carlos,Sainz,mclaren,McLaren,,,18,5,2:14.103,140.802
+2020,9,33,19,R,0,3,0,Collision,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,,,,
+2020,9,10,20,R,0,16,0,Collision,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,,,,
+2021,1,44,1,1,25,2,56,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5523897,1:32:03.897,4,44,1:34.015,207.235
+2021,1,33,2,2,18,1,56,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5524642,+0.745,2,41,1:33.228,208.984
+2021,1,77,3,3,16,3,56,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5561280,+37.383,1,56,1:32.090,211.566
+2021,1,4,4,4,12,7,56,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5570363,+46.466,6,38,1:34.396,206.398
+2021,1,11,5,5,10,0,56,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5575944,+52.047,3,44,1:33.970,207.334
+2021,1,16,6,6,8,4,56,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5582987,+59.090,11,39,1:34.988,205.112
+2021,1,3,7,7,6,6,56,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5589901,+66.004,10,36,1:34.932,205.233
+2021,1,55,8,8,4,8,56,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5590997,+67.100,7,48,1:34.509,206.151
+2021,1,22,9,9,2,13,56,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,5609589,+85.692,8,38,1:34.761,205.603
+2021,1,18,10,10,1,10,56,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5610610,+86.713,9,31,1:34.865,205.378
+2021,1,7,11,11,0,14,56,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,5612761,+88.864,14,45,1:35.192,204.672
+2021,1,99,12,12,0,12,55,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,13,32,1:35.122,204.823
+2021,1,31,13,13,0,16,55,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,15,33,1:35.250,204.548
+2021,1,63,14,14,0,15,55,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,12,40,1:35.036,205.008
+2021,1,5,15,15,0,20,55,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,16,26,1:35.566,203.871
+2021,1,47,16,16,0,18,55,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,18,38,1:36.134,202.667
+2021,1,10,17,17,0,5,52,Retired,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,5,48,1:34.090,207.069
+2021,1,6,18,18,0,17,51,Retired,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,19,16,1:36.602,201.685
+2021,1,14,19,R,0,9,32,Brakes,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,17,31,1:36.063,202.816
+2021,1,9,20,R,0,19,0,Accident,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,,,,
+2021,10,44,1,1,25,2,52,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,7103284,1:58:23.284,2,45,1:29.699,236.430
+2021,10,16,2,2,18,4,52,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,7107155,+3.871,5,45,1:30.569,234.159
+2021,10,77,3,3,15,3,52,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,7114409,+11.125,4,45,1:30.524,234.275
+2021,10,4,4,4,12,5,52,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,7131857,+28.573,9,44,1:31.420,231.979
+2021,10,3,5,5,10,6,52,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,7145908,+42.624,8,51,1:31.284,232.325
+2021,10,55,6,6,8,10,52,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,7146738,+43.454,7,51,1:31.223,232.480
+2021,10,14,7,7,6,7,52,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,7175377,+1:12.093,10,48,1:31.698,231.276
+2021,10,18,8,8,4,14,52,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,7177573,+1:14.289,12,48,1:31.992,230.537
+2021,10,31,9,9,2,9,52,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,7179446,+1:16.162,14,48,1:32.210,229.992
+2021,10,22,10,10,1,16,52,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,7185349,+1:22.065,6,51,1:30.826,233.497
+2021,10,10,11,11,0,11,52,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,7188611,+1:25.327,3,52,1:30.266,234.945
+2021,10,63,12,12,0,12,51,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,13,49,1:32.049,230.394
+2021,10,99,13,13,0,15,51,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,15,49,1:32.346,229.653
+2021,10,6,14,14,0,17,51,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,16,51,1:32.477,229.328
+2021,10,7,15,15,0,13,51,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,11,48,1:31.895,230.780
+2021,10,11,16,16,0,0,51,+1 Lap,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,,,1,50,1:28.617,239.317
+2021,10,9,17,17,0,19,51,+1 Lap,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,18,51,1:32.909,228.262
+2021,10,47,18,18,0,18,51,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,17,50,1:32.862,228.377
+2021,10,5,19,R,0,8,40,Retired,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,19,35,1:33.059,227.894
+2021,10,33,20,R,0,1,0,Collision,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,,,,
+2021,11,31,1,1,25,8,70,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,7483199,2:04:43.199,5,54,1:21.421,193.704
+2021,11,44,2,2,18,1,70,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,7485935,+2.736,2,49,1:18.715,200.363
+2021,11,55,3,3,15,15,70,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,7498217,+15.018,6,54,1:21.423,193.699
+2021,11,14,4,4,12,9,70,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,7498850,+15.651,3,41,1:20.359,196.264
+2021,11,10,5,5,11,5,70,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,7546813,+1:03.614,1,70,1:18.394,201.183
+2021,11,22,6,6,8,16,70,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,7559002,+1:15.803,10,43,1:22.450,191.286
+2021,11,6,7,7,6,18,70,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,7561109,+1:17.910,14,62,1:22.831,190.406
+2021,11,63,8,8,4,17,70,Finished,russell,63,RUS,George,Russell,williams,Williams,7562293,+1:19.094,9,62,1:22.112,192.074
+2021,11,33,9,9,2,3,70,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,7563443,+1:20.244,4,43,1:20.945,194.843
+2021,11,7,10,10,1,13,69,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,8,58,1:21.518,193.473
+2021,11,3,11,11,0,11,69,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,13,58,1:22.802,190.473
+2021,11,47,12,12,0,20,69,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,11,44,1:22.711,190.683
+2021,11,99,13,13,0,0,69,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,12,44,1:22.736,190.625
+2021,11,9,14,R,0,19,3,Collision,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,,,,
+2021,11,4,15,R,0,6,2,Collision,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,,,,
+2021,11,77,16,R,0,2,0,Collision,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,,,,,,
+2021,11,11,17,R,0,4,0,Collision,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,,,,,,
+2021,11,16,18,R,0,7,0,Collision,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,,,,
+2021,11,18,19,R,0,12,0,Collision,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,,,,
+2021,11,5,20,D,0,10,70,Disqualified,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,7,60,1:21.459,193.613
+2021,12,33,1,1,12.5,1,1,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,207071,3:27.071
+2021,12,63,2,2,9,2,1,Finished,russell,63,RUS,George,Russell,williams,Williams,209066,+1.995
+2021,12,44,3,3,7.5,3,1,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,209672,+2.601
+2021,12,3,4,4,6,4,1,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,211567,+4.496
+2021,12,5,5,5,5,5,1,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,214550,+7.479
+2021,12,10,6,6,4,6,1,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,217248,+10.177
+2021,12,31,7,7,3,8,1,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,218650,+11.579
+2021,12,16,8,8,2,9,1,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,219679,+12.608
+2021,12,6,9,9,1,10,1,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,222556,+15.485
+2021,12,55,10,10,0.5,11,1,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,223237,+16.166
+2021,12,14,11,11,0,12,1,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,227661,+20.590
+2021,12,77,12,12,0,13,1,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,229485,+22.414
+2021,12,99,13,13,0,14,1,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,231234,+24.163
+2021,12,4,14,14,0,15,1,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,234181,+27.110
+2021,12,22,15,15,0,16,1,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,235400,+28.329
+2021,12,47,16,16,0,17,1,Finished,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,236578,+29.507
+2021,12,9,17,17,0,18,1,Finished,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,239064,+31.993
+2021,12,7,18,18,0,0,1,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,243125,+36.054
+2021,12,11,19,19,0,0,1,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,245276,+38.205
+2021,12,18,20,20,0,19,1,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,251179,+44.108
+2021,13,33,1,1,25,1,72,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5405395,1:30:05.395,3,60,1:13.275,209.244
+2021,13,44,2,2,19,2,72,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5426327,+20.932,1,72,1:11.097,215.654
+2021,13,77,3,3,15,3,72,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5461855,+56.460,2,69,1:12.549,211.338
+2021,13,10,4,4,12,4,71,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,10,57,1:14.818,204.929
+2021,13,16,5,5,10,5,71,+1 Lap,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,9,58,1:14.780,205.033
+2021,13,14,6,6,8,9,71,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,7,60,1:14.323,206.294
+2021,13,55,7,7,6,6,71,+1 Lap,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,,,13,45,1:15.260,203.725
+2021,13,11,8,8,4,0,71,+1 Lap,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,,,4,59,1:13.461,208.714
+2021,13,31,9,9,2,8,71,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,8,54,1:14.675,205.321
+2021,13,4,10,10,1,13,71,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,6,48,1:14.236,206.535
+2021,13,3,11,11,0,10,71,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,11,59,1:14.920,204.650
+2021,13,18,12,12,0,12,70,+2 Laps,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,15,57,1:15.611,202.780
+2021,13,5,13,13,0,15,70,+2 Laps,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,5,63,1:13.958,207.312
+2021,13,99,14,14,0,7,70,+2 Laps,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,12,66,1:15.125,204.091
+2021,13,88,15,15,0,16,70,+2 Laps,kubica,88,KUB,Robert,Kubica,alfa,Alfa Romeo,,,14,44,1:15.442,203.234
+2021,13,6,16,16,0,0,70,+2 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,18,25,1:15.790,202.301
+2021,13,63,17,17,0,11,69,Gearbox,russell,63,RUS,George,Russell,williams,Williams,,,16,57,1:15.628,202.734
+2021,13,47,18,18,0,17,69,+3 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,19,36,1:15.927,201.936
+2021,13,22,19,R,0,14,48,Power Unit,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,17,44,1:15.783,202.319
+2021,13,9,20,R,0,18,41,Hydraulics,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,20,35,1:16.066,201.567
+2021,14,3,1,1,26,2,53,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,4914365,1:21:54.365,1,53,1:24.812,245.894
+2021,14,4,2,2,18,3,53,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,4916112,+1.747,3,53,1:24.971,245.434
+2021,14,77,3,3,15,19,53,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,4919286,+4.921,2,34,1:24.827,245.850
+2021,14,16,4,4,12,5,53,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,4921674,+7.309,6,53,1:25.319,244.433
+2021,14,11,5,5,10,8,53,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,4923088,+8.723,4,53,1:25.156,244.901
+2021,14,55,6,6,8,6,53,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,4924900,+10.535,8,53,1:25.559,243.747
+2021,14,18,7,7,6,9,53,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,4930169,+15.804,13,52,1:25.853,242.912
+2021,14,14,8,8,4,10,53,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,4931566,+17.201,7,52,1:25.472,243.995
+2021,14,63,9,9,2,14,53,Finished,russell,63,RUS,George,Russell,williams,Williams,4934107,+19.742,11,53,1:25.835,242.963
+2021,14,31,10,10,1,12,53,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,4935233,+20.868,9,53,1:25.566,243.727
+2021,14,6,11,11,0,13,53,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,4938108,+23.743,16,50,1:25.953,242.630
+2021,14,5,12,12,0,11,53,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,4938986,+24.621,15,50,1:25.938,242.672
+2021,14,99,13,13,0,7,53,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,4941581,+27.216,10,50,1:25.718,243.295
+2021,14,88,14,14,0,17,53,Finished,kubica,88,KUB,Robert,Kubica,alfa,Alfa Romeo,4944134,+29.769,12,53,1:25.849,242.924
+2021,14,47,15,15,0,18,53,Finished,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,4965453,+51.088,17,52,1:26.707,240.520
+2021,14,9,16,R,0,16,41,Power Unit,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,18,41,1:27.202,239.155
+2021,14,44,17,R,0,4,25,Collision,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,,,14,3,1:25.870,242.864
+2021,14,33,18,R,0,1,25,Collision,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,5,25,1:25.173,244.852
+2021,14,10,19,R,0,0,3,Suspension,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,19,2,1:29.005,234.310
+2021,14,22,20,W,0,0,0,Brakes,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,,,,
+2021,15,44,1,1,25,4,53,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5441001,1:30:41.001,2,43,1:37.575,215.760
+2021,15,33,2,2,18,20,53,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5494272,+53.271,5,28,1:38.396,213.959
+2021,15,55,3,3,15,2,53,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5503476,+1:02.475,12,40,1:39.294,212.024
+2021,15,3,4,4,12,5,53,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5506608,+1:05.607,9,24,1:39.124,212.388
+2021,15,77,5,5,10,16,53,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5508534,+1:07.533,3,31,1:38.216,214.352
+2021,15,14,6,6,8,6,53,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5522322,+1:21.321,6,44,1:38.686,213.331
+2021,15,4,7,7,7,1,53,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5528225,+1:27.224,1,39,1:37.423,216.096
+2021,15,7,8,8,4,13,53,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,5529956,+1:28.955,16,34,1:40.289,209.921
+2021,15,11,9,9,2,8,53,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5531077,+1:30.076,10,45,1:39.215,212.193
+2021,15,63,10,10,1,3,53,Finished,russell,63,RUS,George,Russell,williams,Williams,5541552,+1:40.551,18,40,1:40.596,209.280
+2021,15,18,11,11,0,7,53,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5547199,+1:46.198,17,35,1:40.464,209.555
+2021,15,5,12,12,0,10,52,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,11,44,1:39.251,212.116
+2021,15,10,13,13,0,11,52,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,4,35,1:38.279,214.214
+2021,15,31,14,14,0,9,52,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,19,34,1:40.598,209.276
+2021,15,16,15,15,0,19,52,+1 Lap,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,7,45,1:38.994,212.667
+2021,15,99,16,16,0,17,52,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,8,39,1:39.058,212.530
+2021,15,22,17,17,0,12,52,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,13,42,1:39.960,210.612
+2021,15,9,18,18,0,15,51,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,20,24,1:41.713,206.982
+2021,15,6,19,19,0,18,47,Accident,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,14,42,1:40.000,210.528
+2021,15,47,20,R,0,14,32,Oil leak,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,15,22,1:40.276,209.948
+2021,16,77,1,1,26,1,58,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5464103,1:31:04.103,1,58,1:30.432,212.500
+2021,16,33,2,2,18,2,58,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5478687,+14.584,9,53,1:32.759,207.169
+2021,16,11,3,3,15,6,58,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5497574,+33.471,4,53,1:32.459,207.841
+2021,16,16,4,4,12,3,58,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5501917,+37.814,8,57,1:32.737,207.218
+2021,16,44,5,5,10,11,58,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5505915,+41.812,10,52,1:32.763,207.160
+2021,16,10,6,6,8,4,58,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5508395,+44.292,11,50,1:32.814,207.046
+2021,16,4,7,7,6,7,58,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5511316,+47.213,3,50,1:32.446,207.870
+2021,16,55,8,8,4,19,58,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5515629,+51.526,2,49,1:31.921,209.057
+2021,16,18,9,9,2,8,58,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5546121,+1:22.018,6,58,1:32.608,207.506
+2021,16,31,10,10,1,12,57,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,19,24,1:34.584,203.171
+2021,16,99,11,11,0,16,57,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,13,57,1:32.904,206.845
+2021,16,7,12,12,0,17,57,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,5,50,1:32.586,207.556
+2021,16,3,13,13,0,20,57,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,15,34,1:33.255,206.067
+2021,16,22,14,14,0,9,57,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,12,54,1:32.844,206.979
+2021,16,63,15,15,0,13,57,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,16,53,1:33.399,205.749
+2021,16,14,16,16,0,5,57,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,14,55,1:33.252,206.073
+2021,16,6,17,17,0,15,57,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,17,48,1:33.672,205.149
+2021,16,5,18,18,0,10,57,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,7,54,1:32.730,207.233
+2021,16,47,19,19,0,14,56,+2 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,18,52,1:34.209,203.980
+2021,16,9,20,20,0,18,56,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,20,52,1:35.438,201.353
+2021,17,33,1,1,25,1,56,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5676552,1:34:36.552,2,52,1:39.096,200.278
+2021,17,44,2,2,19,2,56,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5677885,+1.333,1,41,1:38.485,201.521
+2021,17,11,3,3,15,3,56,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5718775,+42.223,4,32,1:39.566,199.333
+2021,17,16,4,4,12,4,56,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5728798,+52.246,3,41,1:39.303,199.861
+2021,17,3,5,5,10,6,56,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5753406,+1:16.854,8,43,1:40.345,197.785
+2021,17,77,6,6,8,9,56,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5756680,+1:20.128,6,41,1:40.147,198.176
+2021,17,55,7,7,6,5,56,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5760097,+1:23.545,9,40,1:40.377,197.722
+2021,17,4,8,8,4,7,56,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5760947,+1:24.395,7,41,1:40.228,198.016
+2021,17,22,9,9,2,10,55,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,13,47,1:41.151,196.209
+2021,17,5,10,10,1,18,55,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,10,40,1:40.481,197.517
+2021,17,99,11,11,0,12,55,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,12,44,1:41.145,196.221
+2021,17,18,12,12,0,13,55,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,14,36,1:41.189,196.135
+2021,17,7,13,13,0,15,55,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,15,43,1:41.340,195.843
+2021,17,63,14,14,0,20,55,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,11,36,1:41.120,196.269
+2021,17,6,15,15,0,14,55,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,17,46,1:41.818,194.924
+2021,17,47,16,16,0,16,54,+2 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,16,36,1:41.395,195.737
+2021,17,9,17,17,0,17,54,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,20,42,1:42.886,192.900
+2021,17,14,18,R,0,19,49,Rear wing,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,5,46,1:40.067,198.335
+2021,17,31,19,R,0,11,40,Mechanical,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,19,28,1:42.194,194.207
+2021,17,10,20,R,0,8,14,Suspension,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,18,12,1:42.015,194.547
+2021,18,33,1,1,25,3,71,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5919086,1:38:39.086,2,52,1:18.999,196.134
+2021,18,44,2,2,18,2,71,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5935641,+16.555,4,66,1:19.820,194.116
+2021,18,11,3,3,15,4,71,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5936838,+17.752,3,49,1:19.468,194.976
+2021,18,10,4,4,12,5,71,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5982931,+1:03.845,7,66,1:20.510,192.453
+2021,18,16,5,5,10,8,71,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,6000123,+1:21.037,9,63,1:20.665,192.083
+2021,18,55,6,6,8,6,70,+1 Lap,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,,,5,63,1:20.081,193.484
+2021,18,5,7,7,6,9,70,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,6,70,1:20.460,192.572
+2021,18,7,8,8,4,10,70,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,11,63,1:20.713,191.969
+2021,18,14,9,9,2,12,70,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,10,54,1:20.711,191.973
+2021,18,4,10,10,1,18,70,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,8,67,1:20.617,192.197
+2021,18,99,11,11,0,11,70,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,16,68,1:21.523,190.061
+2021,18,3,12,12,0,7,70,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,13,40,1:21.069,191.126
+2021,18,31,13,13,0,19,70,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,14,67,1:21.348,190.470
+2021,18,18,14,14,0,20,69,+2 Laps,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,12,61,1:20.930,191.454
+2021,18,77,15,15,0,1,69,+2 Laps,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,,,1,69,1:17.774,199.223
+2021,18,63,16,16,0,16,69,+2 Laps,russell,63,RUS,George,Russell,williams,Williams,,,18,61,1:22.016,188.919
+2021,18,6,17,17,0,13,69,+2 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,17,66,1:21.546,190.008
+2021,18,9,18,18,0,15,68,+3 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,15,61,1:21.402,190.344
+2021,18,47,19,R,0,14,0,Collision,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,,,,
+2021,18,22,20,R,0,17,0,Collision,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,,,,
+2021,19,44,1,1,25,10,71,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5542851,1:32:22.851,2,46,1:11.982,215.503
+2021,19,33,2,2,18,2,71,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5553347,+10.496,3,47,1:12.486,214.005
+2021,19,77,3,3,15,1,71,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5556427,+13.576,4,49,1:12.526,213.887
+2021,19,11,4,4,13,4,71,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5582791,+39.940,1,71,1:11.010,218.453
+2021,19,16,5,5,10,6,71,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5592368,+49.517,7,61,1:12.822,213.018
+2021,19,55,6,6,8,3,71,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5594671,+51.820,6,63,1:12.710,213.346
+2021,19,10,7,7,6,7,70,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,8,53,1:13.227,211.839
+2021,19,31,8,8,4,8,70,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,16,48,1:14.430,208.415
+2021,19,14,9,9,2,12,70,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,12,37,1:13.922,209.848
+2021,19,4,10,10,1,5,70,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,10,53,1:13.761,210.306
+2021,19,5,11,11,0,9,70,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,9,69,1:13.634,210.668
+2021,19,7,12,12,0,0,70,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,5,54,1:12.621,213.607
+2021,19,63,13,13,0,17,70,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,15,45,1:14.355,208.626
+2021,19,99,14,14,0,13,70,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,14,44,1:14.227,208.985
+2021,19,22,15,15,0,15,70,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,13,62,1:14.204,209.050
+2021,19,6,16,16,0,16,70,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,18,57,1:14.616,207.896
+2021,19,9,17,17,0,19,69,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,19,36,1:14.954,206.958
+2021,19,47,18,18,0,18,69,+2 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,11,66,1:13.793,210.215
+2021,19,3,19,R,0,11,49,Power loss,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,17,40,1:14.443,208.379
+2021,19,18,20,R,0,14,47,Collision damage,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,20,25,1:15.344,205.887
+2021,2,33,1,1,25,3,63,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,7354598,2:02:34.598,2,60,1:17.524,227.960
+2021,2,44,2,2,19,1,63,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,7376598,+22.000,1,60,1:16.702,230.403
+2021,2,4,3,3,15,7,63,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,7378300,+23.702,3,63,1:18.259,225.819
+2021,2,16,4,4,12,4,63,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,7380177,+25.579,6,60,1:18.379,225.473
+2021,2,55,5,5,10,11,63,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,7381634,+27.036,7,60,1:18.490,225.154
+2021,2,3,6,6,8,6,63,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,7405818,+51.220,12,54,1:19.341,222.739
+2021,2,10,7,7,6,5,63,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,7407416,+52.818,9,52,1:18.994,223.718
+2021,2,18,8,8,4,10,63,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,7411507,+56.909,8,59,1:18.782,224.320
+2021,2,31,9,9,2,9,63,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,7420302,+65.704,15,62,1:19.422,222.512
+2021,2,14,10,10,1,15,63,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,7421159,+66.561,14,62,1:19.417,222.526
+2021,2,11,11,11,0,2,63,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,7421749,+67.151,13,62,1:19.396,222.585
+2021,2,22,12,12,0,20,63,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,7427782,+73.184,4,49,1:18.334,225.603
+2021,2,7,13,13,0,16,63,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,7449371,+94.773,5,62,1:18.353,225.548
+2021,2,99,14,14,0,17,62,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,16,57,1:19.470,222.378
+2021,2,5,15,15,0,0,61,Gearbox,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,10,59,1:19.074,223.491
+2021,2,47,16,16,0,18,61,+2 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,11,58,1:19.193,223.156
+2021,2,9,17,17,0,19,61,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,17,55,1:20.402,219.800
+2021,2,77,18,R,0,8,30,Collision,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,,,19,30,1:28.485,199.721
+2021,2,63,19,R,0,12,30,Collision,russell,63,RUS,George,Russell,williams,Williams,,,18,28,1:26.543,204.203
+2021,2,6,20,R,0,14,0,Collision,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,,,,
+2021,20,44,1,1,25,1,57,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5068471,1:24:28.471,2,50,1:25.084,227.633
+2021,20,33,2,2,19,7,57,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5094214,+25.743,1,57,1:23.196,232.799
+2021,20,14,3,3,15,3,57,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5127928,+59.457,10,48,1:26.682,223.437
+2021,20,11,4,4,12,11,57,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5130777,+1:02.306,3,49,1:25.613,226.227
+2021,20,31,5,5,10,9,57,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5149041,+1:20.570,13,46,1:27.061,222.464
+2021,20,18,6,6,8,12,57,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5149745,+1:21.274,17,44,1:27.356,221.713
+2021,20,55,7,7,6,5,57,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5150382,+1:21.911,9,46,1:26.570,223.726
+2021,20,16,8,8,4,13,57,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5151597,+1:23.126,8,46,1:26.555,223.765
+2021,20,4,9,9,2,4,56,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,4,51,1:25.746,225.876
+2021,20,5,10,10,1,10,56,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,7,53,1:26.434,224.078
+2021,20,10,11,11,0,2,56,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,11,46,1:27.019,222.572
+2021,20,3,12,12,0,14,56,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,14,50,1:27.198,222.115
+2021,20,22,13,13,0,8,56,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,12,50,1:27.043,222.510
+2021,20,7,14,14,0,16,56,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,6,53,1:26.358,224.275
+2021,20,99,15,15,0,18,56,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,18,40,1:27.823,220.534
+2021,20,47,16,16,0,19,56,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,19,46,1:28.412,219.065
+2021,20,63,17,17,0,15,55,+2 Laps,russell,63,RUS,George,Russell,williams,Williams,,,5,55,1:25.768,225.818
+2021,20,9,18,18,0,20,55,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,16,55,1:27.340,221.754
+2021,20,6,19,R,0,17,50,Puncture,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,20,44,1:28.732,218.275
+2021,20,77,20,R,0,6,48,Damage,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,,,15,39,1:27.246,221.992
+2021,21,44,1,1,26,1,50,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,7575118,2:06:15.118,1,47,1:30.734,244.962
+2021,21,33,2,2,18,3,50,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,7586943,+11.825,3,35,1:31.488,242.943
+2021,21,77,3,3,15,2,50,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,7602649,+27.531,2,47,1:31.408,243.155
+2021,21,31,4,4,12,9,50,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,7602751,+27.633,6,47,1:31.797,242.125
+2021,21,3,5,5,10,11,50,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,7615239,+40.121,11,43,1:32.716,239.725
+2021,21,10,6,6,8,6,50,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,7616731,+41.613,9,46,1:32.297,240.813
+2021,21,16,7,7,6,4,50,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,7619593,+44.475,4,46,1:31.601,242.643
+2021,21,55,8,8,4,15,50,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,7621724,+46.606,7,37,1:31.851,241.983
+2021,21,99,9,9,2,10,50,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,7633623,+58.505,15,37,1:32.865,239.340
+2021,21,4,10,10,1,7,50,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,7636476,+1:01.358,8,49,1:31.914,241.817
+2021,21,18,11,11,0,18,50,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,7652330,+1:17.212,14,45,1:32.804,239.498
+2021,21,6,12,12,0,16,50,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,7658367,+1:23.249,12,49,1:32.751,239.635
+2021,21,14,13,13,0,13,49,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,5,46,1:31.633,242.558
+2021,21,22,14,14,0,8,49,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,10,44,1:32.506,240.269
+2021,21,7,15,15,0,12,49,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,13,45,1:32.778,239.565
+2021,21,5,16,R,0,17,44,Collision damage,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,16,41,1:34.030,236.375
+2021,21,11,17,R,0,5,14,Collision,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,,,17,9,1:34.138,236.104
+2021,21,9,18,R,0,20,14,Collision,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,20,7,1:37.043,229.036
+2021,21,63,19,R,0,14,14,Collision,russell,63,RUS,George,Russell,williams,Williams,,,19,7,1:36.130,231.211
+2021,21,47,20,R,0,19,8,Accident,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,18,8,1:36.043,231.421
+2021,22,33,1,1,26,1,58,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5417345,1:30:17.345,1,39,1:26.103,220.800
+2021,22,44,2,2,18,2,58,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5419601,+2.256,3,43,1:26.615,219.495
+2021,22,55,3,3,15,5,58,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5422518,+5.173,9,51,1:27.618,216.982
+2021,22,22,4,4,12,8,58,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,5423037,+5.692,7,50,1:27.496,217.285
+2021,22,10,5,5,10,12,58,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5423876,+6.531,6,49,1:27.342,217.668
+2021,22,77,6,6,8,6,58,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5424808,+7.463,5,51,1:26.862,218.871
+2021,22,4,7,7,6,3,58,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5476545,+59.200,4,58,1:26.762,219.123
+2021,22,14,8,8,4,11,58,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5479053,+1:01.708,8,58,1:27.607,217.010
+2021,22,31,9,9,2,9,58,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5481371,+1:04.026,10,58,1:28.249,215.431
+2021,22,16,10,10,1,7,58,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5483402,+1:06.057,12,40,1:28.433,214.983
+2021,22,5,11,11,0,15,58,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,5484872,+1:07.527,11,58,1:28.303,215.299
+2021,22,3,12,12,0,10,57,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,14,48,1:28.723,214.280
+2021,22,18,13,13,0,13,57,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,13,48,1:28.567,214.657
+2021,22,47,14,14,0,19,57,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,17,42,1:29.457,212.522
+2021,22,11,15,15,0,4,55,Engine,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,,,2,51,1:26.419,219.993
+2021,22,6,16,R,0,16,50,Accident,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,15,30,1:29.293,212.912
+2021,22,99,17,R,0,14,33,Gearbox,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,16,33,1:29.442,212.557
+2021,22,63,18,R,0,17,26,Gearbox,russell,63,RUS,George,Russell,williams,Williams,,,19,23,1:30.647,209.732
+2021,22,7,19,R,0,18,25,Brakes,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,18,23,1:29.698,211.951
+2021,22,9,20,W,0,20,0,Illness,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,,,,
+2021,3,44,1,1,25,2,66,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5671421,1:34:31.421,4,47,1:20.933,206.971
+2021,3,33,2,2,18,3,66,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5700569,+29.148,3,62,1:20.695,207.581
+2021,3,77,3,3,16,1,66,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5704951,+33.530,1,65,1:19.865,209.738
+2021,3,11,4,4,12,4,66,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5711156,+39.735,2,55,1:20.643,207.715
+2021,3,4,5,5,10,7,66,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5722790,+51.369,7,55,1:21.696,205.038
+2021,3,16,6,6,8,8,66,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5727202,+55.781,6,63,1:21.496,205.541
+2021,3,31,7,7,6,6,66,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5735170,+1:03.749,8,34,1:21.886,204.562
+2021,3,14,8,8,4,13,66,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5673229,+1:04.808,5,66,1:21.032,206.718
+2021,3,3,9,9,2,16,66,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5746790,+1:15.369,10,64,1:21.987,204.310
+2021,3,10,10,10,1,9,66,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5747884,+1:16.463,11,65,1:22.014,204.243
+2021,3,55,11,11,0,5,66,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5750376,+1:18.955,14,60,1:22.325,203.471
+2021,3,99,12,12,0,12,65,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,13,60,1:22.167,203.862
+2021,3,5,13,13,0,10,65,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,15,60,1:22.416,203.246
+2021,3,18,14,14,0,17,65,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,9,59,1:21.970,204.352
+2021,3,22,15,15,0,14,65,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,12,61,1:22.058,204.133
+2021,3,63,16,16,0,11,65,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,16,60,1:22.654,202.661
+2021,3,47,17,17,0,19,64,+2 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,17,61,1:22.755,202.414
+2021,3,6,18,18,0,18,64,+2 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,18,60,1:23.155,201.440
+2021,3,9,19,19,0,20,64,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,19,64,1:23.641,200.270
+2021,3,7,20,R,0,15,1,Collision damage,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,,,,
+2021,4,44,1,1,25,1,66,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5587680,1:33:07.680,5,54,1:20.665,208.640
+2021,4,33,2,2,19,2,66,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5603521,+15.841,1,62,1:18.149,215.357
+2021,4,77,3,3,15,3,66,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5614290,+26.610,2,65,1:19.430,211.884
+2021,4,16,4,4,12,4,66,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5642296,+54.616,4,64,1:20.459,209.174
+2021,4,11,5,5,10,8,66,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5651351,+1:03.671,3,60,1:19.483,211.743
+2021,4,3,6,6,8,7,66,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5661448,+1:13.768,10,60,1:21.853,205.612
+2021,4,55,7,7,6,6,66,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5662350,+1:14.670,9,53,1:21.568,206.330
+2021,4,4,8,8,4,9,65,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,7,56,1:21.279,207.064
+2021,4,31,9,9,2,5,65,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,18,46,1:23.311,202.014
+2021,4,10,10,10,1,12,65,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,8,64,1:21.375,206.820
+2021,4,18,11,11,0,11,65,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,11,47,1:22.607,203.735
+2021,4,7,12,12,0,17,65,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,15,54,1:22.868,203.094
+2021,4,5,13,13,0,13,65,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,14,56,1:22.820,203.211
+2021,4,63,14,14,0,15,65,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,17,30,1:23.208,202.264
+2021,4,99,15,15,0,14,65,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,13,42,1:22.802,203.255
+2021,4,6,16,16,0,19,65,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,16,57,1:22.905,203.003
+2021,4,14,17,17,0,10,65,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,6,63,1:21.182,207.311
+2021,4,47,18,18,0,18,64,+2 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,12,54,1:22.637,203.661
+2021,4,9,19,19,0,20,64,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,19,45,1:24.040,200.261
+2021,4,22,20,R,0,16,6,Electrical,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,20,5,1:24.825,198.408
+2021,5,33,1,1,25,2,78,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5936820,1:38:56.820,6,58,1:14.649,160.929
+2021,5,55,2,2,18,4,78,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5945788,+8.968,5,35,1:14.621,160.989
+2021,5,4,3,3,15,5,78,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5956247,+19.427,7,76,1:14.670,160.883
+2021,5,11,4,4,12,9,78,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5957310,+20.490,3,32,1:14.552,161.138
+2021,5,5,5,5,10,8,78,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,5989411,+52.591,11,33,1:15.316,159.503
+2021,5,10,6,6,8,6,78,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5990716,+53.896,14,71,1:15.412,159.300
+2021,5,44,7,7,7,7,78,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,6005051,+1:08.231,1,69,1:12.909,164.769
+2021,5,18,8,8,4,13,77,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,8,74,1:14.674,160.875
+2021,5,31,9,9,2,11,77,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,12,41,1:15.316,159.503
+2021,5,99,10,10,1,10,77,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,13,41,1:15.331,159.472
+2021,5,7,11,11,0,14,77,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,9,55,1:14.971,160.237
+2021,5,3,12,12,0,12,77,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,4,43,1:14.578,161.082
+2021,5,14,13,13,0,17,77,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,10,70,1:15.026,160.120
+2021,5,63,14,14,0,15,77,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,15,59,1:15.539,159.033
+2021,5,6,15,15,0,18,77,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,16,66,1:15.573,158.961
+2021,5,22,16,16,0,16,77,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,2,66,1:14.037,162.259
+2021,5,9,17,17,0,19,75,+3 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,19,64,1:16.866,156.287
+2021,5,47,18,18,0,20,75,+3 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,18,51,1:16.425,157.189
+2021,5,77,19,R,0,3,29,Wheel nut,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,,,17,18,1:15.706,158.682
+2021,5,16,20,W,0,1,0,Driveshaft,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,,,,
+2021,6,11,1,1,25,6,51,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,8016410,2:13:36.410,2,45,1:44.687,206.432
+2021,6,5,2,2,18,11,51,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,8017795,+1.385,4,41,1:44.890,206.032
+2021,6,10,3,3,15,4,51,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,8019172,+2.762,6,44,1:45.220,205.386
+2021,6,16,4,4,12,1,51,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,8020238,+3.828,8,46,1:45.382,205.071
+2021,6,4,5,5,10,9,51,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,8021164,+4.754,7,41,1:45.326,205.180
+2021,6,14,6,6,8,8,51,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,8022792,+6.382,11,42,1:45.624,204.601
+2021,6,22,7,7,6,7,51,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,8023034,+6.624,5,46,1:44.939,205.936
+2021,6,55,8,8,4,5,51,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,8024119,+7.709,13,42,1:45.700,204.454
+2021,6,3,9,9,2,13,51,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,8025284,+8.874,14,43,1:45.713,204.428
+2021,6,7,10,10,1,14,51,Finished,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,8025986,+9.576,10,43,1:45.601,204.645
+2021,6,99,11,11,0,20,51,Finished,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,8026664,+10.254,9,44,1:45.575,204.696
+2021,6,77,12,12,0,10,51,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,8027674,+11.264,12,43,1:45.665,204.521
+2021,6,47,13,13,0,17,51,Finished,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,8030651,+14.241,18,41,1:47.624,200.799
+2021,6,9,14,14,0,18,51,Finished,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,8030725,+14.315,19,40,1:47.747,200.569
+2021,6,44,15,15,0,2,51,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,8034078,+17.668,3,43,1:44.769,206.270
+2021,6,6,16,16,0,16,51,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,8059789,+43.379,17,42,1:46.608,202.712
+2021,6,63,17,R,0,15,48,Gearbox,russell,63,RUS,George,Russell,williams,Williams,,,15,43,1:45.959,203.954
+2021,6,33,18,R,0,3,45,Accident,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,1,44,1:44.481,206.839
+2021,6,18,19,R,0,19,29,Accident,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,16,28,1:46.207,203.478
+2021,6,31,20,R,0,12,3,Turbo,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,20,2,1:50.850,194.955
+2021,7,33,1,1,26,1,53,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5245770,1:27:25.770,1,35,1:36.404,218.156
+2021,7,44,2,2,18,2,53,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5248674,+2.904,5,44,1:37.410,215.903
+2021,7,11,3,3,15,4,53,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5254581,+8.811,2,53,1:36.693,217.504
+2021,7,77,4,4,12,3,53,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5260388,+14.618,3,19,1:36.960,216.905
+2021,7,4,5,5,10,8,53,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5309802,+1:04.032,6,52,1:37.425,215.870
+2021,7,3,6,6,8,10,53,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5321627,+1:15.857,14,45,1:38.324,213.896
+2021,7,10,7,7,6,6,53,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5322366,+1:16.596,11,44,1:38.103,214.378
+2021,7,14,8,8,4,9,53,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5323465,+1:17.695,7,44,1:37.646,215.382
+2021,7,5,9,9,2,12,53,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,5325436,+1:19.666,4,52,1:37.138,216.508
+2021,7,18,10,10,1,19,53,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5337716,+1:31.946,9,44,1:37.828,214.981
+2021,7,55,11,11,0,5,53,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5345107,+1:39.337,18,19,1:38.931,212.584
+2021,7,63,12,12,0,14,52,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,13,52,1:38.314,213.918
+2021,7,22,13,13,0,0,52,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,19,18,1:38.980,212.479
+2021,7,31,14,14,0,11,52,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,15,33,1:38.645,213.200
+2021,7,99,15,15,0,13,52,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,16,36,1:38.702,213.077
+2021,7,16,16,16,0,7,52,+1 Lap,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,8,43,1:37.681,215.304
+2021,7,7,17,17,0,17,52,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,10,46,1:37.992,214.621
+2021,7,6,18,18,0,16,52,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,12,50,1:38.313,213.920
+2021,7,47,19,19,0,15,52,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,17,51,1:38.847,212.765
+2021,7,9,20,20,0,18,52,+1 Lap,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,20,34,1:39.317,211.758
+2021,8,33,1,1,25,1,71,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,4938925,1:22:18.925,3,68,1:08.017,228.542
+2021,8,44,2,2,19,2,71,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,4974668,+35.743,1,71,1:07.058,231.811
+2021,8,77,3,3,15,5,71,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,4985832,+46.907,5,43,1:08.619,226.537
+2021,8,11,4,4,12,4,71,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,4986359,+47.434,2,57,1:07.894,228.956
+2021,8,4,5,5,10,3,70,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,7,65,1:08.903,225.604
+2021,8,55,6,6,8,12,70,+1 Lap,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,,,4,64,1:08.609,226.570
+2021,8,16,7,7,6,7,70,+1 Lap,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,6,64,1:08.738,226.145
+2021,8,18,8,8,4,9,70,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,14,32,1:09.787,222.746
+2021,8,14,9,9,2,8,70,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,13,61,1:09.749,222.867
+2021,8,22,10,10,1,11,70,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,11,41,1:09.650,223.184
+2021,8,7,11,11,0,18,70,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,8,57,1:09.128,224.869
+2021,8,5,12,12,0,14,70,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,15,64,1:09.821,222.637
+2021,8,3,13,13,0,13,70,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,9,45,1:09.305,224.295
+2021,8,31,14,14,0,17,70,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,10,70,1:09.576,223.421
+2021,8,99,15,15,0,15,70,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,12,39,1:09.723,222.950
+2021,8,47,16,16,0,19,69,+2 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,16,57,1:10.005,222.052
+2021,8,6,17,17,0,16,68,+3 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,17,34,1:10.104,221.739
+2021,8,9,18,18,0,20,68,+3 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,19,39,1:10.951,219.092
+2021,8,63,19,R,0,10,36,Engine,russell,63,RUS,George,Russell,williams,Williams,,,18,28,1:10.499,220.496
+2021,8,10,20,R,0,6,1,Collision,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,,,,
+2021,9,33,1,1,26,1,71,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5034543,1:23:54.543,1,62,1:06.200,234.815
+2021,9,77,2,2,18,5,71,Finished,bottas,77,BOT,Valtteri,Bottas,mercedes,Mercedes,5052516,+17.973,6,52,1:08.374,227.349
+2021,9,4,3,3,15,2,71,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5054562,+20.019,10,62,1:08.471,227.027
+2021,9,44,4,4,12,4,71,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5080995,+46.452,3,55,1:08.126,228.177
+2021,9,55,5,5,10,10,71,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5091687,+57.144,2,70,1:07.762,229.402
+2021,9,11,6,6,8,3,71,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5092458,+57.915,5,55,1:08.192,227.956
+2021,9,3,7,7,6,13,71,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5094938,+1:00.395,14,56,1:08.820,225.876
+2021,9,16,8,8,4,12,71,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5095738,+1:01.195,13,55,1:08.698,226.277
+2021,9,10,9,9,2,6,71,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5096387,+1:01.844,4,54,1:08.146,228.110
+2021,9,14,10,10,1,14,70,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,7,70,1:08.405,227.246
+2021,9,63,11,11,0,8,70,+1 Lap,russell,63,RUS,George,Russell,williams,Williams,,,16,56,1:08.900,225.613
+2021,9,22,12,12,0,7,70,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,9,54,1:08.455,227.080
+2021,9,18,13,13,0,9,70,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,12,54,1:08.659,226.405
+2021,9,99,14,14,0,15,70,+1 Lap,giovinazzi,99,GIO,Antonio,Giovinazzi,alfa,Alfa Romeo,,,17,55,1:09.042,225.149
+2021,9,7,15,15,0,16,70,+1 Lap,raikkonen,7,RAI,Kimi,Räikkönen,alfa,Alfa Romeo,,,15,69,1:08.874,225.699
+2021,9,6,16,16,0,18,70,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,11,62,1:08.520,226.865
+2021,9,5,17,17,0,11,69,Collision,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,8,51,1:08.420,227.196
+2021,9,47,18,18,0,19,69,+2 Laps,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,18,56,1:09.394,224.007
+2021,9,9,19,19,0,20,69,+2 Laps,mazepin,9,MAZ,Nikita,Mazepin,haas,Haas F1 Team,,,19,49,1:09.757,222.842
+2021,9,31,20,R,0,17,0,Collision,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,,,,
+2022,1,16,1,1,26,1,57,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5853584,1:37:33.584,1,51,1:34.570,206.018
+2022,1,55,2,2,18,3,57,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5859182,+5.598,3,52,1:35.740,203.501
+2022,1,44,3,3,15,5,57,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5863259,+9.675,5,53,1:36.228,202.469
+2022,1,63,4,4,12,9,57,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5864795,+11.211,6,56,1:36.302,202.313
+2022,1,20,5,5,10,7,57,Finished,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,5868338,+14.754,8,53,1:36.623,201.641
+2022,1,77,6,6,8,6,57,Finished,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,5869703,+16.119,7,53,1:36.599,201.691
+2022,1,31,7,7,6,11,57,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5873007,+19.423,14,53,1:37.110,200.630
+2022,1,22,8,8,4,16,57,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,5873970,+20.386,13,53,1:37.104,200.642
+2022,1,14,9,9,2,8,57,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5875974,+22.390,10,44,1:36.733,201.412
+2022,1,24,10,10,1,15,57,Finished,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,5876648,+23.064,9,39,1:36.685,201.512
+2022,1,47,11,11,0,12,57,Finished,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,5886158,+32.574,11,37,1:36.956,200.948
+2022,1,18,12,12,0,19,57,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5899457,+45.873,15,49,1:37.146,200.555
+2022,1,23,13,13,0,14,57,Finished,albon,23,ALB,Alexander,Albon,williams,Williams,5907516,+53.932,18,50,1:37.355,200.125
+2022,1,3,14,14,0,18,57,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5908559,+54.975,16,50,1:37.261,200.318
+2022,1,4,15,15,0,13,57,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5909919,+56.335,12,51,1:36.988,200.882
+2022,1,6,16,16,0,20,57,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,5915379,+1:01.795,20,51,1:38.251,198.300
+2022,1,27,17,17,0,17,57,Finished,hulkenberg,27,HUL,Nico,Hülkenberg,aston_martin,Aston Martin,5917413,+1:03.829,19,49,1:38.201,198.401
+2022,1,11,18,18,0,4,56,Engine,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,,,4,52,1:36.089,202.762
+2022,1,1,19,19,0,2,54,Steering,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,2,51,1:35.440,204.140
+2022,1,10,20,R,0,10,44,Engine,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,17,34,1:37.324,200.189
+2022,10,55,1,1,25,1,52,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,8270311,2:17:50.311,2,44,1:30.813,233.530
+2022,10,11,2,2,18,4,52,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,8274090,+3.779,3,47,1:30.937,233.212
+2022,10,44,3,3,16,5,52,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,8276536,+6.225,1,52,1:30.510,234.312
+2022,10,16,4,4,12,3,52,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,8278857,+8.546,4,52,1:31.282,232.330
+2022,10,14,5,5,10,7,52,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,8279882,+9.571,5,47,1:31.609,231.501
+2022,10,4,6,6,8,6,52,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,8282254,+11.943,6,47,1:31.645,231.410
+2022,10,1,7,7,6,2,52,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,8289088,+18.777,8,44,1:32.354,229.633
+2022,10,47,8,8,4,19,52,Finished,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,8289306,+18.995,7,48,1:32.109,230.244
+2022,10,5,9,9,2,18,52,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,8292667,+22.356,10,52,1:32.471,229.343
+2022,10,20,10,10,1,17,52,Finished,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,8294901,+24.590,12,52,1:32.661,228.872
+2022,10,18,11,11,0,20,52,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,8296458,+26.147,9,52,1:32.379,229.571
+2022,10,6,12,12,0,10,52,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,8302822,+32.511,13,48,1:33.286,227.339
+2022,10,3,13,13,0,14,52,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,8303128,+32.817,11,34,1:32.644,228.914
+2022,10,22,14,14,0,13,52,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,8311221,+40.910,15,51,1:33.832,226.016
+2022,10,31,15,R,0,15,37,Fuel pump,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,14,37,1:33.537,226.729
+2022,10,10,16,R,0,11,26,Collision damage,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,16,18,1:34.614,224.148
+2022,10,77,17,R,0,12,20,Gearbox,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,,,17,19,1:35.103,222.996
+2022,10,63,18,R,0,8,0,Collision,russell,63,RUS,George,Russell,mercedes,Mercedes,,,,,,
+2022,10,24,19,R,0,9,0,Collision,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,,,,,,
+2022,10,23,20,R,0,16,0,Collision,albon,23,ALB,Alexander,Albon,williams,Williams,,,,,,
+2022,11,16,1,1,25,2,71,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5064312,1:24:24.312,2,62,1:07.583,230.010
+2022,11,1,2,2,19,1,71,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5065844,+1.532,1,62,1:07.275,231.063
+2022,11,44,3,3,15,9,71,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5105529,+41.217,5,63,1:09.000,225.286
+2022,11,63,4,4,12,4,71,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5123284,+58.972,6,61,1:09.075,225.042
+2022,11,31,5,5,10,5,71,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5132748,+1:08.436,10,62,1:09.559,223.476
+2022,11,47,6,6,8,7,70,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,11,50,1:09.625,223.264
+2022,11,4,7,7,6,15,70,+1 Lap,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,8,62,1:09.304,224.298
+2022,11,20,8,8,4,6,70,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,14,61,1:09.938,222.265
+2022,11,3,9,9,2,16,70,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,13,61,1:09.924,222.309
+2022,11,14,10,10,1,8,70,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,3,62,1:08.558,226.739
+2022,11,77,11,11,0,12,70,+1 Lap,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,,,7,61,1:09.266,224.421
+2022,11,23,12,12,0,11,70,+1 Lap,albon,23,ALB,Alexander,Albon,williams,Williams,,,12,60,1:09.669,223.123
+2022,11,18,13,13,0,17,70,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,17,64,1:10.048,221.916
+2022,11,24,14,14,0,18,70,+1 Lap,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,,,9,50,1:09.380,224.053
+2022,11,10,15,15,0,10,70,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,18,61,1:10.104,221.739
+2022,11,22,16,16,0,14,70,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,16,62,1:10.023,221.995
+2022,11,5,17,17,0,20,70,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,15,62,1:10.001,222.065
+2022,11,55,18,R,0,3,56,Power Unit,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,,,4,55,1:08.649,226.438
+2022,11,6,19,R,0,19,48,Undertray,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,19,14,1:10.890,219.280
+2022,11,11,20,R,0,13,24,Collision damage,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,,,20,5,1:11.843,216.371
+2022,2,1,1,1,25,4,50,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5059293,1:24:19.293,2,50,1:31.772,242.191
+2022,2,16,2,2,19,2,50,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5059842,+0.549,1,48,1:31.634,242.556
+2022,2,55,3,3,15,3,50,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5067390,+8.097,3,48,1:31.905,241.841
+2022,2,11,4,4,12,1,50,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5070093,+10.800,4,46,1:32.042,241.481
+2022,2,63,5,5,10,6,50,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5092025,+32.732,7,43,1:32.821,239.454
+2022,2,31,6,6,8,5,50,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5115310,+56.017,9,46,1:33.103,238.729
+2022,2,4,7,7,6,11,50,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5115417,+56.124,5,46,1:32.753,239.629
+2022,2,10,8,8,4,9,50,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5122239,+1:02.946,10,42,1:33.468,237.796
+2022,2,20,9,9,2,10,50,Finished,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,5123601,+1:04.308,6,48,1:32.779,239.562
+2022,2,44,10,10,1,15,50,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5133241,+1:13.948,8,47,1:32.997,239.001
+2022,2,24,11,11,0,12,50,Finished,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,5141508,+1:22.215,13,45,1:33.924,236.642
+2022,2,27,12,12,0,17,50,Finished,hulkenberg,27,HUL,Nico,Hülkenberg,aston_martin,Aston Martin,5151035,+1:31.742,11,47,1:33.651,237.332
+2022,2,18,13,13,0,13,49,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,16,46,1:34.446,235.334
+2022,2,23,14,14,0,16,47,Collision,albon,23,ALB,Alexander,Albon,williams,Williams,,,15,46,1:34.368,235.528
+2022,2,77,15,R,0,8,36,Mechanical,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,,,14,31,1:33.979,236.503
+2022,2,14,16,R,0,7,35,Engine,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,12,33,1:33.831,236.876
+2022,2,3,17,R,0,14,35,Clutch,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,17,34,1:34.487,235.232
+2022,2,6,18,R,0,18,14,Accident,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,18,9,1:37.530,227.892
+2022,2,22,19,R,0,19,0,Power Unit,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,,,,
+2022,2,47,20,W,0,0,0,Withdrew,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,,,,
+2022,3,16,1,1,26,1,58,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5266548,1:27:46.548,1,58,1:20.260,236.740
+2022,3,11,2,2,18,3,58,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5287072,+20.524,3,58,1:21.094,234.305
+2022,3,63,3,3,15,6,58,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5292141,+25.593,4,53,1:21.495,233.152
+2022,3,44,4,4,12,5,58,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5295091,+28.543,7,51,1:21.886,232.039
+2022,3,4,5,5,10,4,58,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5319851,+53.303,8,55,1:22.248,231.018
+2022,3,3,6,6,8,7,58,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5320285,+53.737,9,54,1:22.451,230.449
+2022,3,31,7,7,6,8,58,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5328231,+1:01.683,10,58,1:22.469,230.399
+2022,3,77,8,8,4,12,58,Finished,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,5334987,+1:08.439,5,54,1:21.651,232.707
+2022,3,10,9,9,2,11,58,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5342769,+1:16.221,13,52,1:22.731,229.669
+2022,3,23,10,10,1,20,58,Finished,albon,23,ALB,Alexander,Albon,williams,Williams,5345930,+1:19.382,12,54,1:22.589,230.064
+2022,3,24,11,11,0,14,58,Finished,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,5348243,+1:21.695,11,55,1:22.541,230.198
+2022,3,18,12,12,0,19,58,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5355146,+1:28.598,17,48,1:23.592,227.304
+2022,3,47,13,13,0,15,57,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,14,55,1:23.006,228.908
+2022,3,20,14,14,0,16,57,+1 Lap,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,15,44,1:23.071,228.729
+2022,3,22,15,15,0,13,57,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,16,56,1:23.342,227.985
+2022,3,6,16,16,0,18,57,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,18,49,1:23.882,226.518
+2022,3,14,17,17,0,10,57,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,2,57,1:20.846,235.024
+2022,3,1,18,R,0,2,38,Hydraulics,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,,,6,37,1:21.677,232.633
+2022,3,5,19,R,0,17,22,Accident,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,19,17,1:25.189,223.042
+2022,3,55,20,R,0,9,1,Spun off,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,,,,,,
+2022,4,1,1,1,26,1,63,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5527986,1:32:07.986,1,55,1:18.446,225.281
+2022,4,11,2,2,18,3,63,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5544513,+16.527,3,52,1:18.949,223.845
+2022,4,4,3,3,15,5,63,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5562820,+34.834,7,61,1:20.903,218.439
+2022,4,63,4,4,12,11,63,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5570492,+42.506,8,57,1:20.962,218.280
+2022,4,77,5,5,10,7,63,Finished,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,5571167,+43.181,6,43,1:20.758,218.831
+2022,4,16,6,6,8,2,63,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5584058,+56.072,2,63,1:18.574,224.914
+2022,4,22,7,7,6,12,63,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,5589096,+1:01.110,5,61,1:20.544,219.412
+2022,4,5,8,8,4,13,63,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,5598878,+1:10.892,9,47,1:21.211,217.610
+2022,4,20,9,9,2,8,63,Finished,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,5603246,+1:15.260,10,61,1:21.238,217.538
+2022,4,18,10,10,1,15,62,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,16,46,1:21.750,216.176
+2022,4,23,11,11,0,18,62,+1 Lap,albon,23,ALB,Alexander,Albon,williams,Williams,,,17,61,1:21.757,216.157
+2022,4,10,12,12,0,17,62,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,15,34,1:21.713,216.274
+2022,4,44,13,13,0,14,62,+1 Lap,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,,,13,50,1:21.419,217.054
+2022,4,31,14,14,0,16,62,+1 Lap,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,,,18,37,1:21.887,215.814
+2022,4,24,15,15,0,0,62,+1 Lap,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,,,11,61,1:21.286,217.410
+2022,4,6,16,16,0,19,62,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,12,62,1:21.338,217.271
+2022,4,47,17,17,0,10,62,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,4,55,1:18.999,223.704
+2022,4,3,18,18,0,6,62,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,14,61,1:21.577,216.634
+2022,4,14,19,R,0,9,6,Chassis,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,19,5,1:39.685,177.282
+2022,4,55,20,R,0,4,0,Collision,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,,,,,,
+2022,5,1,1,1,26,3,57,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5664258,1:34:24.258,1,54,1:31.361,213.255
+2022,5,16,2,2,18,1,57,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5668044,+3.786,2,53,1:31.488,212.959
+2022,5,55,3,3,15,2,57,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5672487,+8.229,3,56,1:31.790,212.258
+2022,5,11,4,4,12,4,57,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5674896,+10.638,4,54,1:31.819,212.191
+2022,5,63,5,5,10,12,57,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5682840,+18.582,5,56,1:32.195,211.325
+2022,5,44,6,6,8,6,57,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5685626,+21.368,7,55,1:32.941,209.629
+2022,5,77,7,7,6,5,57,Finished,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,5689331,+25.073,10,56,1:33.184,209.083
+2022,5,31,8,8,4,20,57,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5692644,+28.386,9,56,1:33.163,209.130
+2022,5,23,9,9,2,18,57,Finished,albon,23,ALB,Alexander,Albon,williams,Williams,5696623,+32.365,15,57,1:33.447,208.494
+2022,5,18,10,10,1,0,57,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5701284,+37.026,12,52,1:33.312,208.796
+2022,5,14,11,11,0,11,57,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5701386,+37.128,13,53,1:33.331,208.753
+2022,5,22,12,12,0,9,57,Finished,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,5704404,+40.146,8,55,1:33.035,209.417
+2022,5,3,13,13,0,14,57,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5705160,+40.902,11,56,1:33.265,208.901
+2022,5,6,14,14,0,19,57,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,5714194,+49.936,18,53,1:34.169,206.896
+2022,5,47,15,15,0,15,57,Finished,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,5737563,+1:13.305,6,57,1:32.528,210.565
+2022,5,20,16,16,0,16,56,Front wing,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,17,52,1:33.511,208.351
+2022,5,5,17,17,0,0,54,Collision,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,16,50,1:33.479,208.423
+2022,5,10,18,R,0,7,45,Suspension,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,19,38,1:34.487,206.199
+2022,5,4,19,R,0,8,39,Collision,norris,4,NOR,Lando,Norris,mclaren,McLaren,,,14,37,1:33.411,208.575
+2022,5,24,20,R,0,17,6,Water leak,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,,,20,4,1:35.731,203.520
+2022,6,1,1,1,25,2,66,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5840475,1:37:20.475,4,46,1:25.456,196.943
+2022,6,11,2,2,19,5,66,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5853547,+13.072,1,55,1:24.108,200.099
+2022,6,63,3,3,15,4,66,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5873402,+32.927,3,53,1:24.636,198.851
+2022,6,55,4,4,12,3,66,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5885683,+45.208,7,49,1:25.985,195.731
+2022,6,44,5,5,10,6,66,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5895009,+54.534,2,51,1:24.253,199.755
+2022,6,77,6,6,8,7,66,Finished,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,5900451,+59.976,8,36,1:26.395,194.802
+2022,6,31,7,7,6,12,66,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5915872,+1:15.397,6,54,1:25.935,195.845
+2022,6,4,8,8,4,11,66,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5923710,+1:23.235,5,53,1:25.619,196.568
+2022,6,14,9,9,2,20,65,+1 Lap,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,,,9,56,1:26.599,194.344
+2022,6,22,10,10,1,13,65,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,10,59,1:26.828,193.831
+2022,6,5,11,11,0,16,65,+1 Lap,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,,,18,59,1:27.629,192.059
+2022,6,3,12,12,0,9,65,+1 Lap,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,,,15,54,1:27.285,192.816
+2022,6,10,13,13,0,14,65,+1 Lap,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,,,12,51,1:26.987,193.477
+2022,6,47,14,14,0,10,65,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,16,32,1:27.447,192.459
+2022,6,18,15,15,0,17,65,+1 Lap,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,11,54,1:26.876,193.724
+2022,6,6,16,16,0,19,64,+2 Laps,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,14,52,1:27.246,192.902
+2022,6,20,17,17,0,8,64,+2 Laps,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,17,3,1:27.537,192.261
+2022,6,23,18,18,0,18,64,+2 Laps,albon,23,ALB,Alexander,Albon,williams,Williams,,,19,56,1:28.281,190.641
+2022,6,24,19,R,0,15,28,Power loss,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,,,20,12,1:28.415,190.352
+2022,6,16,20,R,0,1,27,Turbo,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,13,25,1:27.030,193.381
+2022,7,11,1,1,25,3,64,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,6990265,1:56:30.265,4,46,1:16.028,158.010
+2022,7,55,2,2,18,2,64,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,6991419,+1.154,7,47,1:16.421,157.197
+2022,7,1,3,3,15,4,64,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,6991756,+1.491,5,47,1:16.052,157.960
+2022,7,16,4,4,12,1,64,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,6993187,+2.922,6,46,1:16.249,157.552
+2022,7,63,5,5,10,6,64,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,7002233,+11.968,8,42,1:16.830,156.360
+2022,7,4,6,6,9,5,64,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,7002496,+12.231,1,55,1:14.693,160.834
+2022,7,14,7,7,6,7,64,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,7036623,+46.358,3,50,1:15.882,158.314
+2022,7,44,8,8,4,8,64,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,7040653,+50.388,9,51,1:17.203,155.605
+2022,7,77,9,9,2,12,64,Finished,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,7042790,+52.525,14,57,1:17.600,154.809
+2022,7,5,10,10,1,9,64,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,7043801,+53.536,12,54,1:17.558,154.893
+2022,7,10,11,11,0,17,64,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,7044554,+54.289,10,61,1:17.344,155.321
+2022,7,31,12,12,0,10,64,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,7045909,+55.644,13,50,1:17.571,154.867
+2022,7,3,13,13,0,14,64,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,7047900,+57.635,11,59,1:17.532,154.945
+2022,7,18,14,14,0,18,64,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,7051067,+1:00.802,15,56,1:17.672,154.665
+2022,7,6,15,15,0,19,63,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,18,43,1:18.579,152.880
+2022,7,24,16,16,0,20,63,+1 Lap,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,,,17,52,1:18.200,153.621
+2022,7,22,17,17,0,11,63,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,2,61,1:15.334,159.465
+2022,7,23,18,R,0,16,48,Mechanical,albon,23,ALB,Alexander,Albon,williams,Williams,,,16,40,1:18.023,153.969
+2022,7,47,19,R,0,15,24,Accident,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,19,24,1:24.778,141.701
+2022,7,20,20,R,0,13,19,Water pressure,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,20,18,1:33.754,128.135
+2022,8,1,1,1,25,3,51,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5645941,1:34:05.941,2,50,1:46.050,203.779
+2022,8,11,2,2,19,2,51,Finished,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,5666764,+20.823,1,36,1:46.046,203.787
+2022,8,63,3,3,15,5,51,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5691936,+45.995,4,42,1:47.177,201.636
+2022,8,44,4,4,12,7,51,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5717620,+1:11.679,3,39,1:47.044,201.887
+2022,8,10,5,5,10,6,51,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5723240,+1:17.299,16,39,1:48.519,199.143
+2022,8,5,6,6,8,9,51,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,5730040,+1:24.099,12,41,1:48.206,199.719
+2022,8,14,7,7,6,10,51,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5734537,+1:28.596,8,49,1:47.989,200.120
+2022,8,3,8,8,4,12,51,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5738148,+1:32.207,13,44,1:48.276,199.589
+2022,8,4,9,9,2,11,51,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5738497,+1:32.556,9,37,1:47.997,200.105
+2022,8,31,10,10,1,13,51,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5661569,+1:48.184,14,36,1:48.297,199.551
+2022,8,77,11,11,0,15,50,+1 Lap,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,,,11,42,1:48.179,199.768
+2022,8,23,12,12,0,17,50,+1 Lap,albon,23,ALB,Alexander,Albon,williams,Williams,,,7,48,1:47.966,200.163
+2022,8,22,13,13,0,8,50,+1 Lap,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,5,42,1:47.523,200.987
+2022,8,47,14,14,0,20,50,+1 Lap,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,15,40,1:48.410,199.343
+2022,8,6,15,15,0,18,50,+1 Lap,latifi,6,LAT,Nicholas,Latifi,williams,Williams,,,20,37,1:49.583,197.209
+2022,8,18,16,16,0,19,46,Vibrations,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,,,10,38,1:48.038,200.029
+2022,8,20,17,R,0,16,31,Power Unit,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,,,18,12,1:48.789,198.648
+2022,8,24,18,R,0,14,23,Technical,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,,,17,12,1:48.723,198.769
+2022,8,16,19,R,0,1,21,Power Unit,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,,,6,13,1:47.531,200.972
+2022,8,55,20,R,0,4,8,Brakes,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,,,19,3,1:48.978,198.304
+2022,9,1,1,1,25,1,70,Finished,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull,5781757,1:36:21.757,2,64,1:15.839,207.012
+2022,9,55,2,2,19,3,70,Finished,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari,5782750,+0.993,1,63,1:15.749,207.258
+2022,9,44,3,3,15,4,70,Finished,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes,5788763,+7.006,4,69,1:16.167,206.120
+2022,9,63,4,4,12,8,70,Finished,russell,63,RUS,George,Russell,mercedes,Mercedes,5794070,+12.313,5,63,1:16.418,205.443
+2022,9,16,5,5,10,19,70,Finished,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari,5796925,+15.168,3,62,1:15.901,206.843
+2022,9,31,6,6,8,7,70,Finished,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team,5805647,+23.890,9,62,1:17.110,203.600
+2022,9,77,7,7,6,11,70,Finished,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo,5807004,+25.247,8,64,1:17.010,203.864
+2022,9,24,8,8,4,10,70,Finished,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo,5808709,+26.952,7,60,1:16.927,204.084
+2022,9,14,9,9,2,2,70,Finished,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team,5811702,+29.945,6,63,1:16.578,205.014
+2022,9,18,10,10,1,17,70,Finished,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin,5819979,+38.222,10,64,1:17.421,202.782
+2022,9,3,11,11,0,9,70,Finished,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren,5824804,+43.047,13,59,1:17.932,201.452
+2022,9,5,12,12,0,16,70,Finished,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin,5826002,+44.245,15,63,1:17.956,201.390
+2022,9,23,13,13,0,12,70,Finished,albon,23,ALB,Alexander,Albon,williams,Williams,5826650,+44.893,14,59,1:17.951,201.403
+2022,9,10,14,14,0,15,70,Finished,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri,5826940,+45.183,12,60,1:17.810,201.768
+2022,9,4,15,15,0,14,70,Finished,norris,4,NOR,Lando,Norris,mclaren,McLaren,5833902,+52.145,11,63,1:17.495,202.588
+2022,9,6,16,16,0,18,70,Finished,latifi,6,LAT,Nicholas,Latifi,williams,Williams,5841735,+59.978,18,61,1:18.540,199.893
+2022,9,20,17,17,0,5,70,Finished,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team,5849937,+1:08.180,16,11,1:18.046,201.158
+2022,9,22,18,R,0,20,47,Accident,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri,,,17,15,1:18.309,200.482
+2022,9,47,19,R,0,6,18,Engine,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team,,,20,13,1:18.967,198.812
+2022,9,11,20,R,0,13,7,Gearbox,perez,11,PER,Sergio,Pérez,red_bull,Red Bull,,,19,7,1:18.844,199.122

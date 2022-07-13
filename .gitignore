@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+requests.csv
+data/qualifying/
+data/race_results/
+data/races/
+data/sprint_results/
