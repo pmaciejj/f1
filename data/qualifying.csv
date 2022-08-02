@@ -838,6 +838,46 @@ season,round,number,position,Q1,Q2,Q3,Driver_driverId,Driver_permanentNumber,Dri
 2022,11,24,18,1:06.901,,,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo
 2022,11,6,19,1:07.003,,,latifi,6,LAT,Nicholas,Latifi,williams,Williams
 2022,11,5,20,1:07.083,,,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin
+2022,12,16,1,1:31.727,1:31.216,1:30.872,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari
+2022,12,1,2,1:31.891,1:31.990,1:31.176,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull
+2022,12,11,3,1:32.354,1:32.120,1:31.335,perez,11,PER,Sergio,Pérez,red_bull,Red Bull
+2022,12,44,4,1:33.041,1:32.274,1:31.765,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes
+2022,12,4,5,1:32.672,1:32.777,1:32.032,norris,4,NOR,Lando,Norris,mclaren,McLaren
+2022,12,63,6,1:33.109,1:32.633,1:32.131,russell,63,RUS,George,Russell,mercedes,Mercedes
+2022,12,14,7,1:32.819,1:32.631,1:32.552,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team
+2022,12,22,8,1:33.394,1:32.836,1:32.780,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri
+2022,12,55,9,1:32.297,1:31.081,,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari
+2022,12,20,10,1:32.756,1:32.649,,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team
+2022,12,3,11,1:33.404,1:32.922,,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren
+2022,12,31,12,1:33.346,1:33.048,,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team
+2022,12,77,13,1:33.034,1:33.052,,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo
+2022,12,5,14,1:33.285,1:33.276,,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin
+2022,12,23,15,1:33.423,1:33.307,,albon,23,ALB,Alexander,Albon,williams,Williams
+2022,12,10,16,1:33.439,,,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri
+2022,12,18,17,1:33.439,,,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin
+2022,12,24,18,1:33.674,,,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo
+2022,12,47,19,1:33.701,,,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team
+2022,12,6,20,1:33.794,,,latifi,6,LAT,Nicholas,Latifi,williams,Williams
+2022,13,63,1,1:18.407,1:18.154,1:17.377,russell,63,RUS,George,Russell,mercedes,Mercedes
+2022,13,55,2,1:18.434,1:17.946,1:17.421,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari
+2022,13,16,3,1:18.806,1:17.768,1:17.567,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari
+2022,13,4,4,1:18.653,1:18.121,1:17.769,norris,4,NOR,Lando,Norris,mclaren,McLaren
+2022,13,31,5,1:18.866,1:18.216,1:18.018,ocon,31,OCO,Esteban,Ocon,alpine,Alpine F1 Team
+2022,13,14,6,1:18.716,1:17.904,1:18.078,alonso,14,ALO,Fernando,Alonso,alpine,Alpine F1 Team
+2022,13,44,7,1:18.374,1:18.035,1:18.142,hamilton,44,HAM,Lewis,Hamilton,mercedes,Mercedes
+2022,13,77,8,1:18.935,1:18.445,1:18.157,bottas,77,BOT,Valtteri,Bottas,alfa,Alfa Romeo
+2022,13,3,9,1:18.775,1:18.198,1:18.379,ricciardo,3,RIC,Daniel,Ricciardo,mclaren,McLaren
+2022,13,1,10,1:18.509,1:17.703,1:18.823,max_verstappen,33,VER,Max,Verstappen,red_bull,Red Bull
+2022,13,11,11,1:19.118,1:18.516,,perez,11,PER,Sergio,Pérez,red_bull,Red Bull
+2022,13,24,12,1:18.973,1:18.573,,zhou,24,ZHO,Guanyu,Zhou,alfa,Alfa Romeo
+2022,13,20,13,1:18.993,1:18.825,,kevin_magnussen,20,MAG,Kevin,Magnussen,haas,Haas F1 Team
+2022,13,18,14,1:19.205,1:19.137,,stroll,18,STR,Lance,Stroll,aston_martin,Aston Martin
+2022,13,47,15,1:19.164,1:19.202,,mick_schumacher,47,MSC,Mick,Schumacher,haas,Haas F1 Team
+2022,13,22,16,1:19.240,,,tsunoda,22,TSU,Yuki,Tsunoda,alphatauri,AlphaTauri
+2022,13,23,17,1:19.256,,,albon,23,ALB,Alexander,Albon,williams,Williams
+2022,13,5,18,1:19.273,,,vettel,5,VET,Sebastian,Vettel,aston_martin,Aston Martin
+2022,13,10,19,1:19.527,,,gasly,10,GAS,Pierre,Gasly,alphatauri,AlphaTauri
+2022,13,6,20,1:19.570,,,latifi,6,LAT,Nicholas,Latifi,williams,Williams
 2022,2,11,1,1:29.705,1:28.924,1:28.200,perez,11,PER,Sergio,Pérez,red_bull,Red Bull
 2022,2,16,2,1:29.039,1:28.780,1:28.225,leclerc,16,LEC,Charles,Leclerc,ferrari,Ferrari
 2022,2,55,3,1:28.855,1:28.686,1:28.402,sainz,55,SAI,Carlos,Sainz,ferrari,Ferrari
